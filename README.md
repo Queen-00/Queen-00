@@ -137,11 +137,11 @@ const Queen = {
 
 <!-- ===================== FEATURE #3: TODAY'S FOCUS ===================== -->
 **Today’s focus:**  
-`three.js`  •  `UI polish`  •  `Docs cleanup`  •  `Discord bot feature`
+`three.js`  •  `UI polish`  •  `Docs cleanup`  
 
 ---
 
-### <img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="22" alt="coding" /> Core Specialties (most proficient) ⚡
+### <img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="22" alt="coding" /> Core Specialties (my most proficient ones) ⚡
 I specialize in **JavaScript**, **TypeScript**, **three.js**, **React**, **Next.js**, **Vercel**, **Yarn**, and **npm**.  
 Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s all my jam actually but I enjoy that the most lol
 
