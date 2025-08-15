@@ -141,27 +141,27 @@ const Queen = {
 
 ---
 
-### <img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="22" alt="coding" />  ⚡ Core Specialties (most proficient)
+### <img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="22" alt="coding" /> Core Specialties (most proficient) ⚡
 I specialize in **JavaScript**, **TypeScript**, **three.js**, **React**, **Next.js**, **Vercel**, **Yarn**, and **npm**.  
 Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s all my jam actually but I enjoy that the most lol
 
 ---
 
-### <img src="https://media.giphy.com/media/QnZal34ldLmSxO7qqB/giphy.gif" width="22" alt="tech" />  🤝 Collabs & Services (when applicable)
+### <img src="https://media.giphy.com/media/QnZal34ldLmSxO7qqB/giphy.gif" width="22" alt="tech" />   Collabs & Services (when applicable) 🤝
 - I’m **open to collaborations & freelance**, though I get busy.  
 - **Small projects / simple multi-page sites** → I can usually turn these around **quickly** and **affordably**.  
 - **Prices are negotiable** — share scope + timeline and we’ll make it work.
 
 ---
 
-### <img src="https://media.giphy.com/media/QnZal34ldLmSxO7qqB/giphy.gif" width="22" alt="tech" />  🧩 Templates, Snippets & Repos
+### <img src="https://media.giphy.com/media/QnZal34ldLmSxO7qqB/giphy.gif" width="22" alt="tech" />   Templates, Snippets & Repos 🧩
 - I’m publishing a **batch of templates**, **reusable components**, and **code snippets** soon.  
 - Several **private projects** are being cleaned up and added here.  
 - A number of my **NDAs are expiring soon**, so I’ll be sharing **additional projects** publicly. Stay tuned.
 
 ---
 
-### <img src="https://media.giphy.com/media/gGxJ9P0d6S6Kect4Ub/giphy.gif" width="22" alt="bubble" />  🧰 Toolbox (day-to-day)
+### <img src="https://media.giphy.com/media/gGxJ9P0d6S6Kect4Ub/giphy.gif" width="22" alt="bubble" /> Toolbox (day-to-day) 🧰
 - Code: JS/TS, React, Next.js, Node, three.js  
 - Build/Deploy: Vercel, Yarn, npm  
 - Design/Editing: Photoshop (advanced), graphics pipeline, light 3D workflow  
@@ -169,7 +169,7 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
 
 ---
 
-### <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="22" alt="404 playful" />  🎓 Additional Background & Certs
+### <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="22" alt="404 playful" /> Additional Background & Certs 🎓
 - Certification in **Computer Software & Applications**  
 - **Adobe Certified Expert/Professional**  
 - Certification in **HTML**  
