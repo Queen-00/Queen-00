@@ -62,3 +62,78 @@ const Queen = {
   accountNotes:
     "New account for a team under my company. Personal repos kept separate for now; many app repos private until publication.",
 };
+
+
+
+⚡ Core Specialties (most proficient)
+
+I specialize in JavaScript, TypeScript, three.js, React, Next.js, Vercel, Yarn, and npm.
+Small interactive UI/graphics and tasteful micro-animations are my jam.. it's all my jam actually but I enjoy that the most lol
+
+
+
+🤝 Collabs & Services (when applicable)
+
+I’m open to collaborations & freelance, though I get busy.
+
+Small projects / simple multi-page sites → I can usually turn these around quickly and affordably.
+
+Prices are negotiable — share scope + timeline and we’ll make it work.
+
+
+
+🧩 Templates, Snippets & Repos
+
+I’m publishing a batch of templates, reusable components, and code snippets soon.
+
+Several private projects are being cleaned up and added here.
+
+A number of my NDAs are expiring soon, so I’ll be sharing additional projects publicly. Stay tuned.
+
+
+
+🧰 Toolbox (day-to-day)
+
+Code: JS/TS, React, Next.js, Node, three.js
+
+Build/Deploy: Vercel, Yarn, npm
+
+Design/Editing: Photoshop (advanced), graphics pipeline, light 3D workflow
+
+Workflow: GitHub projects, issues, lightweight documentation
+
+
+
+🎓 Additional Background & Certs
+
+Certification in Computer Software & Applications
+
+Adobe Certified Expert/Professional
+
+Certification in HTML
+
+Familiar with Python (Django)
+
+Well-versed in Java & JavaScript
+
+Familiar with PHP
+
+Photoshop master & Graphic Designer
+
+Well-versed in AI editorial programs (I pick up new tools fast)
+
+Well-versed in Ruby
+
+Basic Swift (2 courses)
+
+Familiar with CSS
+
+AA in Art Design
+
+Adobe Digital Publishing certificate
+
+Lots of additional classes & online courses
+
+Want the full résumé? Email me for a PDF (serious inquiries only).
+
+Dev & editorial started as hobby/side work; I later moved into a vast variety of chaos, my main life passion.
