@@ -33,10 +33,10 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif" width="22" alt="laptop" />  About me (as code)
+### <img src="https://media.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif" width="22" alt="laptop" />  About me...
 ```ts
 const Queen = {
-  pronouns: "she/her (chill about it)",
+  pronouns: "she/her (chill vibes only)",
   interests: [
     "discord bot development",
     "AI",
