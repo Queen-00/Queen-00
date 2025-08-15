@@ -1,28 +1,64 @@
-- 👋 Heya, I’m @Queen-00
-- 👀 I’m interested in discord bot development, AI, graphic design, 3D modeling, Photoshop, web design...
-- 🌱 I’m currently learning more about AI in regards to its application in discord bots without using an AI service...
-- 🤖 I’m looking to collaborate with discord devs familiar in JavaScript & Python...
-- 📫 How to reach me - dc @xspliff_queenx or gypsyqueend00@gmail.com...
-- 😄 Pronouns: she/her or whatever its not something i really care about so much...
-- ⚡ Fun fact: currently working on 2 applications for discord, growing a business, my favorite language is probably javascript due to it being a beginner friendly language allowing me to work with more devs its usually one of the first people learn & while i love dev work I'm primarily an editor which is my main passion of the two surprisingly...
+<!-- TOP BANNER (transparent .apng/.gif) -->
+<div align="center">
+  <img src="REPLACE_BANNER_GIF_OR_APNG_URL" alt="Queen — banner" width="560" />
+</div>
 
-→ this is a brand new acc i made to join a new team for my company, i didn't want to link my personal freelance acc. i will not have personal repos or anything connected to this acc more than likely. i do not share my applications repos at the current time as we plan to publish them with premiums to help support the applications. 
-i have a hectic schedule & very unpredictable availability however when i do have time im always interested in collaborations or freelance for both dev & editorial work. 
+<!-- COLORED, MOBILE-SAFE TITLE (typing svg renders on desktop & mobile) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2800&pause=700&size=26&center=true&vCenter=true&width=720&lines=Heya%2C+I'm+Queen!;Developer+%E2%80%A2+Editor+%E2%80%A2+Designer;Discord+Bots+%7C+AI+%7C+Web+%7C+3D%2Fthree.js"
+    alt="Typing SVG greeting"
+  />
+</p>
 
-× General Info ×
-- certification in computer software & applications
-- adobe certified expert/professional 
-- certification in HTML
-- familiar with python & Django especially
-- well versed in both java & js program & script languages
-- familiar in PHP 
-- Photoshop master
-- graphic designer
-- well versed in AI editorial programs, if it's something i didn't use before im certain i can still manage
-- well versed in ruby
-- a very basic understanding of swift (took 2 courses with a rented device, i am not an apple fan just wanted a lil knowledge)
-- familiar in CSS 
-- AA in art design
-- adobe digital publishing certificate
-- taken an abundance of various classes & online courses. if you'd like to overview my entire resume you can reach out for a pdf dl. serious inquiries only 🤘 dev & editorial is a hobby & side work of mine. i switched my field after my art degree
-and went into psychology my main life passion, all of my courses & certifications are outside of art degree & uni → all programs, side classes & courses along with personal studies. 
+<!-- quick tech badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/three.js-000000?logo=threedotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff" />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" />
+</p>
+
+<!-- animated emoji sprinkles (swap the URLs with tiny GIFs you like) -->
+<p align="center">
+  <img src="REPLACE_ANIMATED_SPARKLES_GIF_URL" width="28" alt="sparkles" />
+  <img src="REPLACE_ANIMATED_ROCKET_GIF_URL"   width="28" alt="rocket" />
+  <img src="REPLACE_ANIMATED_HEART_GIF_URL"    width="28" alt="heart" />
+</p>
+
+---
+
+### 👋 About me
+```ts
+const Queen = {
+  pronouns: "she/her (chill vibes only)",
+  interests: [
+    "discord bot development",
+    "AI",
+    "graphic design",
+    "3D modeling",
+    "Photoshop, Lightroom",
+    "web design",
+    "web programming",
+  ],
+  currentlyLearning: [
+    "Full stack web dev getting into AI for Discord bots without hosted AI services",
+  ],
+  lookingToCollaborateWith: [
+    "Full Stack Devs (JS, TS & Python)",
+  ],
+  contact: {
+    discord: "xspliff_queenx",
+    email: "gypsyqueend00@gmail.com",
+  },
+  funFact:
+    "Working on 2 Discord apps, growing a business, and revising our website on a weekly basis; JS is my fave for collab-friendly builds, but TS has my heart. Editor by passion, dev by love.",
+  availability:
+    "Schedule is hectic/unpredictable, but I do collabs & freelance when I can.",
+  accountNotes:
+    "New account for a team under my company. Personal repos kept separate for now; many app repos private until publication.",
+};
