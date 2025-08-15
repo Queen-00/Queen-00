@@ -150,7 +150,7 @@ const Queen = {
 </div>
 
 <!-- ===================== FEATURE #3: TODAY'S FOCUS ===================== -->
-**Today’s focus:**  
+**Current focus:**  
 `three.js`  •  `UI polish`  •  `Docs cleanup`  
 
 ---
