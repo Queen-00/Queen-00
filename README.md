@@ -6,7 +6,7 @@
 <!-- COLORED, MOBILE-SAFE TITLE (typing svg renders on desktop & mobile) -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2800&pause=700&size=26&center=true&vCenter=true&width=720&lines=Heya%2C+I'm+Queen!;Developer+%E2%80%A2+Editor+%E2%80%A2+Designer;Discord+Bots+%7C+AI+%7C+Web+%7C+3D%2Fthree.js"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2800&pause=700&size=26&center=true&vCenter=true&width=720&color=9B5CFF&lines=Heya%2C+I'm+Queen!;Developer+%E2%80%A2+Editor+%E2%80%A2+Designer;Discord+Bots+%7C+AI+%7C+Web+%7C+3D%2Fthree.js"
     alt="Typing SVG greeting"
   />
 </p>
@@ -197,6 +197,14 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
   <a href="https://discord.com/users/REPLACE_DISCORD_USER_ID">
     <img src="https://img.shields.io/badge/Discord-@xqueen__of__the__dammedx-5865F2?logo=discord&logoColor=white" />
   </a>
+</p>
+
+<!-- FOOTNOTE: animated typing note (neon purple) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2800&pause=900&size=18&center=true&vCenter=true&width=720&color=9B5CFF&repeat=true&lines=Thanks%20for%20visiting%20my%20profile%21;If%20you%20have%20a%20question%20or%20need%20help%2C%20don%27t%20hesitate%20to%20reach%20out.;Like%20I%20said%20earlier%20my%20availability%20can%20be%20wonky%2C%20but%20I%27m%20pretty%20friendly%20and%20happy%20to%20help%20when%20I%20have%20time.;I%20don%27t%20charge%20for%20simple%20questions%2C%20help%2C%20or%20inquiries."
+    alt="Footer note typing"
+  />
 </p>
 
 <!-- OPTIONAL: GitHub stats (uncomment + set username if you want them visible) -->
