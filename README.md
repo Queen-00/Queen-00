@@ -44,19 +44,20 @@ const Queen = {
     "3D modeling",
     "Photoshop",
     "web design",
+    "web programming",
   ],
   currentlyLearning: [
-    "more AI for Discord bots without using hosted AI services",
+    "full stack web dev, getting more into AI for Discord bots without hosted AI services",
   ],
   lookingToCollaborateWith: [
-    "Discord devs (JavaScript & Python)",
+    "with fellow full stack devs (JS, TS & Python)",
   ],
   contact: {
     discord: "xspliff_queenx",
     email: "gypsyqueend00@gmail.com",
   },
   funFact:
-    "Working on 2 Discord apps, growing a business; JavaScript is my fave for collab-friendly builds. Editor by passion, dev by love.",
+    "Working on 2 Discord apps, growing a business, revising and updating company site weekly; JS is my fave for collab-friendly builds, but TS is my all-time fave that has my heart. Editor by passion, dev by love.",
   availability:
     "Schedule is hectic/unpredictable, but I do collabs & freelance when I can.",
   accountNotes:
