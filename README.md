@@ -53,7 +53,7 @@ const Queen = {
     "with fellow full stack devs (JS, TS & Python)",
   ],
   contact: {
-    discord: "xspliff_queenx",
+    discord: "xqueen_of_the_dammedx",
     email: "gypsyqueend00@gmail.com",
   },
   funFact:
@@ -195,7 +195,7 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
     <img src="https://img.shields.io/badge/Email-gypsyqueend00%40gmail.com-red?logo=gmail&logoColor=white" />
   </a>
   <a href="https://discord.com/users/REPLACE_DISCORD_USER_ID">
-    <img src="https://img.shields.io/badge/Discord-@xspliff__queenx-5865F2?logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-@xqueen__of__the__dammedx-5865F2?logo=discord&logoColor=white" />
   </a>
 </p>
 
@@ -206,8 +206,3 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Queen-00&theme=tokyonight" height="160" />
 </p>
 -->
-
-<!-- footer animated emoji -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif" width="36" alt="wave" />
-</p>
