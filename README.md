@@ -11,29 +11,43 @@
   />
 </p>
 
-<!-- quick tech badges -->
+<!-- Neon divider -->
+<p align="center">
+  <svg width="720" height="6" viewBox="0 0 720 6">
+    <defs>
+      <linearGradient id="g" x1="0" x2="1">
+        <stop offset="0%" stop-color="#00E5FF"/>
+        <stop offset="50%" stop-color="#FF00CC"/>
+        <stop offset="100%" stop-color="#9B5CFF"/>
+      </linearGradient>
+    </defs>
+    <rect x="0" y="1" width="720" height="4" rx="2" fill="url(#g)"/>
+  </svg>
+</p>
+
+<!-- PURPLE-THEMED TECH BADGES -->
 <p align="center">
   <!-- core -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/three.js-000000?logo=threedotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff" />
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" />
+  <img src="https://img.shields.io/badge/JavaScript-9B5CFF?logo=javascript&logoColor=000&labelColor=2C2F33" />
+  <img src="https://img.shields.io/badge/TypeScript-9B5CFF?logo=typescript&logoColor=fff&labelColor=2C2F33" />
+  <img src="https://img.shields.io/badge/React-9B5CFF?logo=react&logoColor=000&labelColor=2C2F33" />
+  <img src="https://img.shields.io/badge/Next.js-9B5CFF?logo=nextdotjs&logoColor=fff&labelColor=2C2F33" />
+  <img src="https://img.shields.io/badge/three.js-9B5CFF?logo=threedotjs&logoColor=fff&labelColor=2C2F33" />
+  <img src="https://img.shields.io/badge/Vercel-9B5CFF?logo=vercel&logoColor=fff&labelColor=2C2F33" />
+  <img src="https://img.shields.io/badge/Yarn-9B5CFF?logo=yarn&logoColor=fff&labelColor=2C2F33" />
+  <img src="https://img.shields.io/badge/npm-9B5CFF?logo=npm&logoColor=fff&labelColor=2C2F33" />
   <br/>
   <!-- extras -->
-  <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=000" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000" />
-  <img src="https://img.shields.io/badge/Java-F89820?logo=openjdk&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Ruby-9B5CFF?logo=ruby&logoColor=fff&labelColor=2C2F33" />
+  <img src="https://img.shields.io/badge/Supabase-9B5CFF?logo=supabase&logoColor=000&labelColor=2C2F33" />
+  <img src="https://img.shields.io/badge/CSS3-9B5CFF?logo=css3&logoColor=fff&labelColor=2C2F33" />
+  <img src="https://img.shields.io/badge/HTML5-9B5CFF?logo=html5&logoColor=fff&labelColor=2C2F33" />
+  <img src="https://img.shields.io/badge/Node.js-9B5CFF?logo=nodedotjs&logoColor=fff&labelColor=2C2F33" />
+  <img src="https://img.shields.io/badge/Linux-9B5CFF?logo=linux&logoColor=000&labelColor=2C2F33" />
+  <img src="https://img.shields.io/badge/Java-9B5CFF?logo=openjdk&logoColor=fff&labelColor=2C2F33" />
+  <img src="https://img.shields.io/badge/Python-9B5CFF?logo=python&logoColor=fff&labelColor=2C2F33" />
+  <img src="https://img.shields.io/badge/PHP-9B5CFF?logo=php&logoColor=fff&labelColor=2C2F33" />
+  <img src="https://img.shields.io/badge/C%2B%2B-9B5CFF?logo=cplusplus&logoColor=fff&labelColor=2C2F33" />
   <!-- JSX has no official Simple Icons logo, so omitted -->
 </p>
 
@@ -149,9 +163,13 @@ const Queen = {
 
 </div>
 
-<!-- ===================== FEATURE #3: TODAY'S FOCUS ===================== -->
-**Current focus:**  
-`three.js`  •  `UI polish`  •  `Docs cleanup`  
+<!-- ===================== FEATURE #3: TODAY'S FOCUS (purple chips) ===================== -->
+**Current focus:**
+<p align="center">
+  <img src="https://img.shields.io/badge/three.js-9B5CFF?label=&logo=threedotjs&logoColor=fff&labelColor=2C2F33" />
+  <img src="https://img.shields.io/badge/UI%20polish-9B5CFF?label=&labelColor=2C2F33" />
+  <img src="https://img.shields.io/badge/Docs%20cleanup-9B5CFF?label=&labelColor=2C2F33" />
+</p>
 
 ---
 
@@ -204,6 +222,15 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
 ---
 
 ### <img src="https://media.giphy.com/media/QuI2G48pcj20qNHE3f/giphy.gif" width="22" alt="mail" />  Reach me
+
+<!-- Local time (Berlin) — Option A -->
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FEurope%2FBerlin&query=%24.datetime&label=Local%20time&style=flat&color=9B5CFF"
+    alt="Local time — Europe/Berlin"
+  />
+</p>
+
 <p>
   <a href="mailto:gypsyqueend00@gmail.com">
     <img src="https://img.shields.io/badge/Email-gypsyqueend00%40gmail.com-red?logo=gmail&logoColor=white" />
