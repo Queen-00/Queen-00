@@ -199,10 +199,10 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
   </a>
 </p>
 
-<!-- FOOTNOTE: animated typing note (neon purple) -->
+<!-- FOOTNOTE: animated typing note (neon purple, 6 lines, bigger size) -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2800&pause=900&size=18&center=true&vCenter=true&width=720&color=9B5CFF&repeat=true&lines=Thanks%20for%20visiting%20my%20profile%21;If%20you%20have%20a%20question%20or%20need%20help%2C%20don%27t%20hesitate%20to%20reach%20out.;Like%20I%20said%20earlier%20my%20availability%20can%20be%20wonky%2C%20but%20I%27m%20pretty%20friendly%20and%20happy%20to%20help%20when%20I%20have%20time.;I%20don%27t%20charge%20for%20simple%20questions%2C%20help%2C%20or%20inquiries."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2800&pause=900&size=20&center=true&vCenter=true&width=720&color=9B5CFF&repeat=true&lines=Thanks%20for%20visiting%20my%20profile%21;If%20you%20have%20a%20question%20or%20need%20help%2C;don%27t%20hesitate%20to%20reach%20out.;My%20availability%20can%20be%20a%20bit%20wonky%2C;but%20I%27m%20friendly%20and%20happy%20to%20help%20when%20I%20can.;I%20don%27t%20charge%20for%20simple%20questions%2C%20help%2C%20or%20inquiries."
     alt="Footer note typing"
   />
 </p>
