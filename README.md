@@ -61,7 +61,12 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif" width="22" alt="laptop" />  About me...
+<!-- ABOUT ME — purple header -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif" width="22" alt="laptop" />
+  <img src="https://img.shields.io/badge/About%20me-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="About me" />
+</p>
+
 ```ts
 const Queen = {
   pronouns: "she/her (chill vibes only)",
@@ -173,27 +178,47 @@ const Queen = {
 
 ---
 
-### <img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="22" alt="coding" /> Core Specialties (my most proficient ones) ⚡
+<!-- CORE SPECIALTIES — purple header -->
+<p align="center">
+  <img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="22" alt="coding" />
+  <img src="https://img.shields.io/badge/Core%20Specialties-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Core Specialties" />
+</p>
+
 I specialize in **JavaScript**, **TypeScript**, **three.js**, **React**, **Next.js**, **Vercel**, **Yarn**, and **npm**.  
 Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s all my jam actually but I enjoy that the most lol
 
 ---
 
-### <img src="https://media.giphy.com/media/QnZal34ldLmSxO7qqB/giphy.gif" width="22" alt="tech" />   Collabs & Services (when applicable) 🤝
+<!-- COLLABS & SERVICES — purple header -->
+<p align="center">
+  <img src="https://media.giphy.com/media/QnZal34ldLmSxO7qqB/giphy.gif" width="22" alt="tech" />
+  <img src="https://img.shields.io/badge/Collabs%20%26%20Services-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Collabs & Services" />
+</p>
+
 - I’m **open to collaborations & freelance**, though I get busy.  
 - **Small projects / simple multi-page sites** → I can usually turn these around **quickly** and **affordably**.  
 - **Prices are negotiable** — share scope + timeline and we’ll make it work.
 
 ---
 
-### <img src="https://media.giphy.com/media/QnZal34ldLmSxO7qqB/giphy.gif" width="22" alt="tech" />   Templates, Snippets & Repos 🧩
+<!-- TEMPLATES, SNIPPETS & REPOS — purple header -->
+<p align="center">
+  <img src="https://media.giphy.com/media/QnZal34ldLmSxO7qqB/giphy.gif" width="22" alt="tech" />
+  <img src="https://img.shields.io/badge/Templates%2C%20Snippets%20%26%20Repos-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Templates, Snippets & Repos" />
+</p>
+
 - I’m publishing a **batch of templates**, **reusable components**, and **code snippets** soon.  
 - Several **private projects** are being cleaned up and added here.  
 - A number of my **NDAs are expiring soon**, so I’ll be sharing **additional projects** publicly. Stay tuned.
 
 ---
 
-### <img src="https://media.giphy.com/media/gGxJ9P0d6S6Kect4Ub/giphy.gif" width="22" alt="bubble" /> Toolbox (day-to-day) 🧰
+<!-- TOOLBOX — purple header -->
+<p align="center">
+  <img src="https://media.giphy.com/media/gGxJ9P0d6S6Kect4Ub/giphy.gif" width="22" alt="bubble" />
+  <img src="https://img.shields.io/badge/Toolbox-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Toolbox" />
+</p>
+
 - Code: JS/TS, React, Next.js, Node, three.js  
 - Build/Deploy: Vercel, Yarn, npm  
 - Design/Editing: Photoshop (advanced), graphics pipeline, light 3D workflow  
@@ -201,7 +226,12 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
 
 ---
 
-### <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="22" alt="404 playful" /> Additional Background & Certs 🎓
+<!-- BACKGROUND & CERTS — purple header -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="22" alt="404 playful" />
+  <img src="https://img.shields.io/badge/Additional%20Background%20%26%20Certs-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Additional Background & Certs" />
+</p>
+
 - Certification in **Computer Software & Applications**  
 - **Adobe Certified Expert/Professional**  
 - Certification in **HTML**  
@@ -221,14 +251,10 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
 
 ---
 
-### <img src="https://media.giphy.com/media/QuI2G48pcj20qNHE3f/giphy.gif" width="22" alt="mail" />  Reach me
-
-<!-- Local time (Berlin) — Option A -->
+<!-- REACH ME — purple header -->
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FEurope%2FBerlin&query=%24.datetime&label=Local%20time&style=flat&color=9B5CFF"
-    alt="Local time — Europe/Berlin"
-  />
+  <img src="https://media.giphy.com/media/QuI2G48pcj20qNHE3f/giphy.gif" width="22" alt="mail" />
+  <img src="https://img.shields.io/badge/Reach%20me-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Reach me" />
 </p>
 
 <p>
@@ -245,6 +271,14 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2800&pause=900&size=22&center=true&vCenter=true&width=720&color=9B5CFF&repeat=true&lines=Thanks%20for%20visiting%20my%20profile%21;If%20you%20have%20a%20question;or%20need%20help%2C;don%27t%20hesitate%20to%20reach%20out.;My%20availability%20can%20be%20a%20bit%20wonky%2C;but%20I%27m%20friendly;and%20happy%20to%20help%20when%20I%20can.;I%20don%27t%20charge%20for%20simple%20questions%2C;help%2C%20or%20inquiries."
     alt="Footer note typing"
+  />
+</p>
+
+<!-- Local time (Berlin) — Option A (moved to very bottom) -->
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FEurope%2FBerlin&query=%24.datetime&label=Local%20time&style=flat&color=9B5CFF"
+    alt="Local time — Europe/Berlin"
   />
 </p>
 
