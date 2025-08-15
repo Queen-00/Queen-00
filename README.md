@@ -13,6 +13,7 @@
 
 <!-- quick tech badges -->
 <p align="center">
+  <!-- core -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
@@ -21,6 +22,19 @@
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff" />
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff" />
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" />
+  <br/>
+  <!-- extras -->
+  <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=000" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000" />
+  <img src="https://img.shields.io/badge/Java-F89820?logo=openjdk&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff" />
+  <!-- JSX has no official Simple Icons logo, so omitted -->
 </p>
 
 <!-- animated emoji sprinkles -->
@@ -199,10 +213,10 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
   </a>
 </p>
 
-<!-- FOOTNOTE: animated typing note (neon purple, 6 lines, bigger size) -->
+<!-- FOOTNOTE: animated typing note (neon purple, 9 lines, bigger size) -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2800&pause=900&size=20&center=true&vCenter=true&width=720&color=9B5CFF&repeat=true&lines=Thanks%20for%20visiting%20my%20profile%21;If%20you%20have%20a%20question%20or%20need%20help%2C;don%27t%20hesitate%20to%20reach%20out.;My%20availability%20can%20be%20a%20bit%20wonky%2C;but%20I%27m%20friendly%20and%20happy%20to%20help%20when%20I%20can.;I%20don%27t%20charge%20for%20simple%20questions%2C%20help%2C%20or%20inquiries."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2800&pause=900&size=22&center=true&vCenter=true&width=720&color=9B5CFF&repeat=true&lines=Thanks%20for%20visiting%20my%20profile%21;If%20you%20have%20a%20question;or%20need%20help%2C;don%27t%20hesitate%20to%20reach%20out.;My%20availability%20can%20be%20a%20bit%20wonky%2C;but%20I%27m%20friendly;and%20happy%20to%20help%20when%20I%20can.;I%20don%27t%20charge%20for%20simple%20questions%2C;help%2C%20or%20inquiries."
     alt="Footer note typing"
   />
 </p>
