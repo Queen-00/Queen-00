@@ -61,8 +61,8 @@
 
 ---
 
-<!-- ABOUT ME — purple header -->
-<p align="center">
+<!-- ABOUT ME — purple header (right-aligned) -->
+<p align="right">
   <img src="https://media.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif" width="22" alt="laptop" />
   <img src="https://img.shields.io/badge/About%20me-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="About me" />
 </p>
@@ -178,8 +178,8 @@ const Queen = {
 
 ---
 
-<!-- CORE SPECIALTIES — purple header -->
-<p align="center">
+<!-- CORE SPECIALTIES — purple header (right-aligned) -->
+<p align="right">
   <img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="22" alt="coding" />
   <img src="https://img.shields.io/badge/Core%20Specialties-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Core Specialties" />
 </p>
@@ -189,8 +189,8 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
 
 ---
 
-<!-- COLLABS & SERVICES — purple header -->
-<p align="center">
+<!-- COLLABS & SERVICES — purple header (right-aligned) -->
+<p align="right">
   <img src="https://media.giphy.com/media/QnZal34ldLmSxO7qqB/giphy.gif" width="22" alt="tech" />
   <img src="https://img.shields.io/badge/Collabs%20%26%20Services-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Collabs & Services" />
 </p>
@@ -201,8 +201,8 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
 
 ---
 
-<!-- TEMPLATES, SNIPPETS & REPOS — purple header -->
-<p align="center">
+<!-- TEMPLATES, SNIPPETS & REPOS — purple header (right-aligned) -->
+<p align="right">
   <img src="https://media.giphy.com/media/QnZal34ldLmSxO7qqB/giphy.gif" width="22" alt="tech" />
   <img src="https://img.shields.io/badge/Templates%2C%20Snippets%20%26%20Repos-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Templates, Snippets & Repos" />
 </p>
@@ -213,8 +213,8 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
 
 ---
 
-<!-- TOOLBOX — purple header -->
-<p align="center">
+<!-- TOOLBOX — purple header (right-aligned) -->
+<p align="right">
   <img src="https://media.giphy.com/media/gGxJ9P0d6S6Kect4Ub/giphy.gif" width="22" alt="bubble" />
   <img src="https://img.shields.io/badge/Toolbox-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Toolbox" />
 </p>
@@ -226,8 +226,8 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
 
 ---
 
-<!-- BACKGROUND & CERTS — purple header -->
-<p align="center">
+<!-- BACKGROUND & CERTS — purple header (right-aligned) -->
+<p align="right">
   <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="22" alt="404 playful" />
   <img src="https://img.shields.io/badge/Additional%20Background%20%26%20Certs-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Additional Background & Certs" />
 </p>
@@ -251,8 +251,8 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
 
 ---
 
-<!-- REACH ME — purple header -->
-<p align="center">
+<!-- REACH ME — purple header (right-aligned) -->
+<p align="right">
   <img src="https://media.giphy.com/media/QuI2G48pcj20qNHE3f/giphy.gif" width="22" alt="mail" />
   <img src="https://img.shields.io/badge/Reach%20me-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Reach me" />
 </p>
@@ -274,7 +274,7 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
   />
 </p>
 
-<!-- Local time (Berlin) — Option A (moved to very bottom) -->
+<!-- Local time (Berlin) — Option A (very bottom) -->
 <p align="center">
   <img
     src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FEurope%2FBerlin&query=%24.datetime&label=Local%20time&style=flat&color=9B5CFF"
