@@ -1,6 +1,6 @@
-<!-- TOP BANNER (transparent .apng/.gif) -->
+<!-- TOP BANNER (transparent .gif/.apng) -->
 <div align="center">
-  <img src="REPLACE_BANNER_GIF_OR_APNG_URL" alt="Queen — banner" width="560" />
+  <img src="https://media.giphy.com/media/JlJJU8Rd2QP4qxjNBc/giphy.gif" alt="Queen — banner" width="560" />
 </div>
 
 <!-- COLORED, MOBILE-SAFE TITLE (typing svg renders on desktop & mobile) -->
@@ -23,45 +23,46 @@
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" />
 </p>
 
-<!-- animated emoji sprinkles (swap the URLs with tiny GIFs you like) -->
+<!-- animated emoji sprinkles -->
 <p align="center">
-  <img src="REPLACE_ANIMATED_SPARKLES_GIF_URL" width="28" alt="sparkles" />
-  <img src="REPLACE_ANIMATED_ROCKET_GIF_URL"   width="28" alt="rocket" />
-  <img src="REPLACE_ANIMATED_HEART_GIF_URL"    width="28" alt="heart" />
+  <img src="https://media.giphy.com/media/QnZal34ldLmSxO7qqB/giphy.gif" width="28" alt="tech sparkle" />
+  <img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="28" alt="coding" />
+  <img src="https://media.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif" width="28" alt="laptop" />
+  <img src="https://media.giphy.com/media/gGxJ9P0d6S6Kect4Ub/giphy.gif" width="28" alt="retro bubble" />
 </p>
 
 ---
 
-### 👋 About me
+### <img src="https://media.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif" width="22" alt="laptop" />  About me (as code)
 ```ts
 const Queen = {
-  pronouns: "she/her (chill vibes only)",
+  pronouns: "she/her (chill about it)",
   interests: [
     "discord bot development",
     "AI",
     "graphic design",
     "3D modeling",
-    "Photoshop, Lightroom",
+    "Photoshop",
     "web design",
-    "web programming",
   ],
   currentlyLearning: [
-    "Full stack web dev getting into AI for Discord bots without hosted AI services",
+    "more AI for Discord bots without using hosted AI services",
   ],
   lookingToCollaborateWith: [
-    "Full Stack Devs (JS, TS & Python)",
+    "Discord devs (JavaScript & Python)",
   ],
   contact: {
     discord: "xspliff_queenx",
     email: "gypsyqueend00@gmail.com",
   },
   funFact:
-    "Working on 2 Discord apps, growing a business, and revising our website on a weekly basis; JS is my fave for collab-friendly builds, but TS has my heart. Editor by passion, dev by love.",
+    "Working on 2 Discord apps, growing a business; JavaScript is my fave for collab-friendly builds. Editor by passion, dev by love.",
   availability:
     "Schedule is hectic/unpredictable, but I do collabs & freelance when I can.",
   accountNotes:
-    "New account for a team under my company. Personal repos kept separate for now; many app repos private until publication.",
+    "New account for a team under my company. Personal repos separate; many app repos private until publication.",
 };
+
 
 
 
