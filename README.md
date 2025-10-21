@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/JlJJU8Rd2QP4qxjNBc/giphy.gif" alt="Queen — banner" width="560" />
 </div>
+
 <!-- COLORED, MOBILE-SAFE TITLE (typing svg renders on desktop & mobile) -->
 <p align="center">
   <img
@@ -9,6 +10,7 @@
     alt="Typing SVG greeting"
   />
 </p>
+
 <!-- Neon divider -->
 <p align="center">
   <svg width="720" height="6" viewBox="0 0 720 6">
@@ -22,6 +24,7 @@
     <rect x="0" y="1" width="720" height="4" rx="2" fill="url(#g)"/>
   </svg>
 </p>
+
 <!-- PURPLE-THEMED TECH BADGES -->
 <p align="center">
   <!-- core -->
@@ -47,14 +50,20 @@
   <img src="https://img.shields.io/badge/C%2B%2B-9B5CFF?logo=cplusplus&logoColor=fff&labelColor=2C2F33" />
   <!-- JSX has no official Simple Icons logo, so omitted -->
 </p>
+
 <!-- INTRO — purple header (left-aligned) --><p align="left">
   <img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="22" alt="coding" />
   <img src="https://img.shields.io/badge/Intro-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Intro" />
 </p>Heya! I’m Queen, a Full-Stack Web Developer and Programmer with over 11 years of experience in modern web technologies, application design, and digital systems. I’m also the Owner of WonderlandXXX Ind™, an 18+ industry where I lead creative and technical projects along with goods and services, marketing, and other company extensions.
+
 Beyond that, I work as a freelance developer, editor, and Discord bot creator, collaborating with a wide range of clients, businesses, and communities. I particularly enjoy working with small businesses — there’s something special about watching their growth happen in real time.
+
 Coding and coffee are my life, and I’m always eager to connect, innovate, and bring ideas to life.
+
 I’m currently collaborating with Modulix, powered by Chartis, a forward-thinking project focused on networking, growth, and connectivity across the Discord and business landscape.
+
 I’m always open to inquiries. My working hours are Mon — Friday 8:45am to 5pm CET, and I’m fluidly available via email and Discord outside those hours.
+
 <!-- animated emoji sprinkles -->
 <p align="center">
   <img src="https://media.giphy.com/media/QnZal34ldLmSxO7qqB/giphy.gif" width="28" alt="tech sparkle" />
@@ -62,12 +71,15 @@ I’m always open to inquiries. My working hours are Mon — Friday 8:45am to 5p
   <img src="https://media.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif" width="28" alt="laptop" />
   <img src="https://media.giphy.com/media/gGxJ9P0d6S6Kect4Ub/giphy.gif" width="28" alt="retro bubble" />
 </p>
+
 ---
+
 <!-- ABOUT ME — purple header (left-aligned) -->
 <p align="left">
   <img src="https://media.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif" width="22" alt="laptop" />
   <img src="https://img.shields.io/badge/About%20me-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="About me" />
 </p>
+
 ```ts
 const Queen = {
   pronouns: "she/her (chill vibes only)",
@@ -97,8 +109,12 @@ const Queen = {
   accountNotes:
     "New account for a team under my company. Personal repos separate; many app repos private until publication.",
 };
+```
 
-<!-- ===================== FEATURE #1: NEON SKILL BARS ===================== --><!-- pure SVG; adjust colored bar widths (0–396) to taste --><div align="center">
+<!-- ===================== FEATURE #1: NEON SKILL BARS ===================== -->
+<!-- pure SVG; adjust colored bar widths (0–396) to taste -->
+<div align="center">
+
   <!-- JavaScript -->
   <svg viewBox="0 0 400 36" width="100%" height="36" role="img" aria-label="JavaScript — expert">
     <defs>
@@ -112,6 +128,7 @@ const Queen = {
     <rect x="2" y="2" rx="12" ry="12" width="360" height="24" fill="url(#gradJS)"/>
     <text x="12" y="19" fill="#eaeaea" font-size="12" font-family="ui-monospace, SFMono-Regular">JavaScript — expert</text>
   </svg>
+
   <!-- TypeScript -->
   <svg viewBox="0 0 400 36" width="100%" height="36" role="img" aria-label="TypeScript — advanced">
     <defs><linearGradient id="gradTS" x1="0" x2="1">
@@ -121,6 +138,7 @@ const Queen = {
     <rect x="2" y="2" rx="12" ry="12" width="340" height="24" fill="url(#gradTS)"/>
     <text x="12" y="19" fill="#eaeaea" font-size="12" font-family="ui-monospace, SFMono-Regular">TypeScript — advanced</text>
   </svg>
+
   <!-- three.js -->
   <svg viewBox="0 0 400 36" width="100%" height="36" role="img" aria-label="three.js — strong">
     <defs><linearGradient id="grad3" x1="0" x2="1">
@@ -130,6 +148,7 @@ const Queen = {
     <rect x="2" y="2" rx="12" ry="12" width="320" height="24" fill="url(#grad3)"/>
     <text x="12" y="19" fill="#eaeaea" font-size="12" font-family="ui-monospace, SFMono-Regular">three.js — strong</text>
   </svg>
+
   <!-- React -->
   <svg viewBox="0 0 400 36" width="100%" height="36" role="img" aria-label="React — advanced">
     <defs><linearGradient id="gradR" x1="0" x2="1">
@@ -139,6 +158,7 @@ const Queen = {
     <rect x="2" y="2" rx="12" ry="12" width="340" height="24" fill="url(#gradR)"/>
     <text x="12" y="19" fill="#eaeaea" font-size="12" font-family="ui-monospace, SFMono-Regular">React — advanced</text>
   </svg>
+
   <!-- Next.js -->
   <svg viewBox="0 0 400 36" width="100%" height="36" role="img" aria-label="Next.js — advanced">
     <defs><linearGradient id="gradN" x1="0" x2="1">
@@ -148,6 +168,7 @@ const Queen = {
     <rect x="2" y="2" rx="12" ry="12" width="320" height="24" fill="url(#gradN)"/>
     <text x="12" y="19" fill="#eaeaea" font-size="12" font-family="ui-monospace, SFMono-Regular">Next.js — advanced</text>
   </svg>
+
   <!-- Tooling band -->
   <svg viewBox="0 0 400 36" width="100%" height="36" role="img" aria-label="Vercel • Yarn • npm — power user">
     <defs><linearGradient id="gradT" x1="0" x2="1">
@@ -157,7 +178,9 @@ const Queen = {
     <rect x="2" y="2" rx="12" ry="12" width="310" height="24" fill="url(#gradT)"/>
     <text x="12" y="19" fill="#eaeaea" font-size="12" font-family="ui-monospace, SFMono-Regular">Vercel • Yarn • npm — power user</text>
   </svg>
+
 </div>
+
 <!-- ===================== FEATURE #3: TODAY'S FOCUS (purple chips) ===================== -->
 **Current focus:**
 <p align="center">
@@ -165,48 +188,63 @@ const Queen = {
   <img src="https://img.shields.io/badge/UI%20polish-9B5CFF?label=&labelColor=2C2F33" />
   <img src="https://img.shields.io/badge/Docs%20cleanup-9B5CFF?label=&labelColor=2C2F33" />
 </p>
+
 ---
+
 <!-- CORE SPECIALTIES — purple header (left-aligned) -->
 <p align="left">
   <img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="22" alt="coding" />
   <img src="https://img.shields.io/badge/Core%20Specialties-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Core Specialties" />
 </p>
+
 I specialize in **JavaScript**, **TypeScript**, **three.js**, **React**, **Next.js**, **Vercel**, **Yarn**, and **npm**.  
 Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s all my jam actually but I enjoy that the most lol
+
 ---
+
 <!-- COLLABS & SERVICES — purple header (left-aligned) -->
 <p align="left">
   <img src="https://media.giphy.com/media/QnZal34ldLmSxO7qqB/giphy.gif" width="22" alt="tech" />
   <img src="https://img.shields.io/badge/Collabs%20%26%20Services-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Collabs & Services" />
 </p>
+
 - I’m **open to collaborations & freelance**, though I get busy.  
 - **Small projects / simple multi-page sites** → I can usually turn these around **quickly** and **affordably**.  
 - **Prices are negotiable** — share scope + timeline and we’ll make it work.
+
 ---
+
 <!-- TEMPLATES, SNIPPETS & REPOS — purple header (left-aligned) -->
 <p align="left">
   <img src="https://media.giphy.com/media/QnZal34ldLmSxO7qqB/giphy.gif" width="22" alt="tech" />
   <img src="https://img.shields.io/badge/Templates%2C%20Snippets%20%26%20Repos-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Templates, Snippets & Repos" />
 </p>
+
 - I’m publishing a **batch of templates**, **reusable components**, and **code snippets** soon.  
 - Several **private projects** are being cleaned up and added here.  
 - A number of my **NDAs are expiring soon**, so I’ll be sharing **additional projects** publicly. Stay tuned.
+
 ---
+
 <!-- TOOLBOX — purple header (left-aligned) -->
 <p align="left">
   <img src="https://media.giphy.com/media/gGxJ9P0d6S6Kect4Ub/giphy.gif" width="22" alt="bubble" />
   <img src="https://img.shields.io/badge/Toolbox-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Toolbox" />
 </p>
+
 - Code: JS/TS, React, Next.js, Node, three.js  
 - Build/Deploy: Vercel, Yarn, npm  
 - Design/Editing: Photoshop (advanced), graphics pipeline, light 3D workflow  
 - Workflow: GitHub projects, issues, lightweight documentation
+
 ---
+
 <!-- BACKGROUND & CERTS — purple header (left-aligned) -->
 <p align="left">
   <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="22" alt="404 playful" />
   <img src="https://img.shields.io/badge/Additional%20Background%20%26%20Certs-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Additional Background & Certs" />
 </p>
+
 - Certification in **Computer Software & Applications**  
 - **Adobe Certified Expert/Professional**  
 - Certification in **HTML**  
@@ -223,23 +261,24 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
 - Lots of additional classes & online courses  
   - Want the full résumé? **Email me for a PDF** *(serious inquiries only).*  
 - Dev & editorial started as hobby/side work; I later moved into a **vast variety of chaos**, my main life passion.
+
 ---
+
 <!-- REACH ME — purple header (left-aligned) -->
 <p align="left">
   <img src="https://media.giphy.com/media/QuI2G48pcj20qNHE3f/giphy.gif" width="22" alt="mail" />
   <img src="https://img.shields.io/badge/Reach%20me-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Reach me" />
 </p>
+
 <p>
   <a href="mailto:gypsyqueend00@gmail.com">
     <img src="https://img.shields.io/badge/Email-gypsyqueend00%40gmail.com-red?logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:ange.modulix@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ange.modulix%40gmail.com-red?logo=gmail&logoColor=white" />
   </a>
   <a href="https://discord.com/users/REPLACE_DISCORD_USER_ID">
     <img src="https://img.shields.io/badge/Discord-@xqueen__of__the__dammedx-5865F2?logo=discord&logoColor=white" />
   </a>
 </p>
+
 <!-- FOOTNOTE: animated typing note (neon purple, 9 lines, bigger size) -->
 <p align="center">
   <img
@@ -247,6 +286,7 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
     alt="Footer note typing"
   />
 </p>
+
 <!-- Local time (Berlin) — Option A (very bottom) -->
 <p align="center">
   <img
@@ -254,3 +294,4 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
     alt="Local time — Europe/Berlin"
   />
 </p>
+-->
