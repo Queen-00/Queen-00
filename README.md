@@ -254,10 +254,3 @@ Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s 
     alt="Local time — Europe/Berlin"
   />
 </p>
-<!-- OPTIONAL: GitHub stats (uncomment + set username if you want them visible) -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Queen-00&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Queen-00&theme=tokyonight" height="160" />
-</p>
--->
