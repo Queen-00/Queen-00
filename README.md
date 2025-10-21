@@ -51,80 +51,61 @@
   <!-- JSX has no official Simple Icons logo, so omitted -->
 </p>
 
-<!-- ===================== INTRO SECTION (inserted here) ===================== -->
-<!-- Animated neon gradient frame + glass panel -->
+<!-- ===================== INTRO (GitHub-safe animated assets) ===================== -->
+<p align="center">
+  <!-- animated gradient bar (capsule-render, works on mobile/desktop) -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9B5CFF&height=10&section=header&reversal=true" alt="intro-top" />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Intro-9B5CFF?style=for-the-badge&labelColor=2C2F33"
+    alt="Intro badge"
+  />
+</p>
+
 <div align="center">
+  <table role="presentation" width="860" style="max-width:860px;">
+    <tr>
+      <td style="padding:0 6px;">
+        <!-- secondary typing row for emphasis -->
+        <p align="center">
+          <img
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3400&pause=800&size=18&center=true&vCenter=true&width=720&color=9B5CFF&lines=Full-Stack+Web+Developer+%26+Programmer;Freelance+Dev+%7C+Editor+%7C+Discord+Bot+Developer"
+            alt="Typing SVG subheading"
+          />
+        </p>
 
-  <style>
-    @keyframes gradientShift {
-      0% {background-position: 0% 50%;}
-      50% {background-position: 100% 50%;}
-      100% {background-position: 0% 50%;}
-    }
-    .intro-box {
-      max-width: 820px;
-      margin: 20px auto;
-      padding: 1.8rem 2.2rem;
-      background: rgba(15, 15, 30, 0.7);
-      border-radius: 16px;
-      border: 1px solid rgba(255, 255, 255, 0.12);
-      backdrop-filter: blur(14px);
-      color: #eaeaea;
-      font-family: "Fira Code", monospace;
-      font-size: 14.5px;
-      line-height: 1.7em;
-      text-align: left;
-      position: relative;
-      overflow: hidden;
-    }
-    .intro-box::before {
-      content: "";
-      position: absolute;
-      top: -2px; left: -2px; right: -2px; bottom: -2px;
-      background: linear-gradient(90deg,#00E5FF,#FF00CC,#9B5CFF,#00E5FF);
-      background-size: 300% 300%;
-      z-index: -1;
-      border-radius: 18px;
-      animation: gradientShift 6s ease infinite;
-      filter: blur(4px);
-      opacity: 0.9;
-    }
-    .intro-heading {
-      font-weight: 600;
-      font-size: 18px;
-      background: linear-gradient(90deg,#00E5FF,#FF00CC,#9B5CFF);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      margin-bottom: 0.6rem;
-    }
-    .intro-highlight {
-      color: #9B5CFF;
-      font-weight: 600;
-    }
-  </style>
+        <p align="left" style="color:#eaeaea;font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, 'Fira Code', monospace;font-size:14.5px;line-height:1.7;">
+          Heya! I’m <strong>Queen</strong>, a <strong>Full-Stack Web Developer and Programmer</strong> with over <strong>11 years of experience</strong> in modern web technologies, application design, and digital systems.
+          I’m also the <strong>Owner of WonderlandXXX Ind™</strong>, an 18+ industry where I lead various creative and technical projects along with goods and services, marketing, and other company extensions.
+        </p>
 
-  <div class="intro-box">
-    <div class="intro-heading">Heya!</div>
-    <p>
-      I’m <span class="intro-highlight">Queen</span>, a <strong>Full-Stack Web Developer and Programmer</strong> with over <strong>11 years of experience</strong> in modern web technologies, application design, and digital systems.
-      I’m also the <strong>Owner of WonderlandXXX Ind™</strong>, an 18+ industry where I lead various creative and technical projects along with goods and services, marketing, and other company extensions.
-    </p>
-    <p>
-      Beyond that, I work as a <strong>freelance developer, editor, and Discord bot creator</strong>, collaborating with a wide range of clients, businesses, and communities.
-      I particularly enjoy working with small businesses — there’s something special about watching their growth happen in real time.
-    </p>
-    <p>
-      Coding and coffee are my life, and I’m always eager to connect, innovate, and bring ideas to life.
-    </p>
-    <p>
-      I’m currently collaborating with <strong>Modulix, powered by Chartis</strong>, a forward-thinking project focused on <strong>networking, growth, and connectivity</strong> across the Discord and business landscape.
-    </p>
-    <p>
-      I'm always open to inquiries so please don't hesitate to reach me. My working hours are <strong>Mon — Friday 8:45am to 5pm CET</strong>, however I am fluidly available via email and Discord outside those days / hours.
-    </p>
-  </div>
+        <p align="left" style="color:#eaeaea;font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, 'Fira Code', monospace;font-size:14.5px;line-height:1.7;">
+          Beyond that, I work as a <strong>freelance developer, editor, and Discord bot creator</strong>, collaborating with a wide range of clients, businesses, and communities. I particularly enjoy working with small businesses — there’s something special about watching their growth happen in real time.
+        </p>
+
+        <p align="left" style="color:#eaeaea;font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, 'Fira Code', monospace;font-size:14.5px;line-height:1.7;">
+          Coding and coffee are my life, and I’m always eager to connect, innovate, and bring ideas to life.
+        </p>
+
+        <p align="left" style="color:#eaeaea;font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, 'Fira Code', monospace;font-size:14.5px;line-height:1.7;">
+          I’m currently collaborating with <strong>Modulix, powered by Chartis</strong>, a forward-thinking project focused on <strong>networking, growth, and connectivity</strong> across the Discord and business landscape.
+        </p>
+
+        <p align="left" style="color:#eaeaea;font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, 'Fira Code', monospace;font-size:14.5px;line-height:1.7;">
+          I'm always open to inquiries. My working hours are <strong>Mon — Friday 8:45am to 5pm CET</strong>, and I’m fluidly available via email and Discord outside those hours.
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
-<!-- ===================== END INTRO SECTION ===================== -->
+
+<p align="center">
+  <!-- animated gradient bar bottom -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9B5CFF&height=10&section=footer&reversal=true" alt="intro-bottom" />
+</p>
+<!-- ===================== END INTRO ===================== -->
 
 <!-- animated emoji sprinkles -->
 <p align="center">
