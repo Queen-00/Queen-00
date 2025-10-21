@@ -56,13 +56,13 @@
   <img src="https://img.shields.io/badge/Intro-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Intro" />
 </p>Heya! I’m Queen, a Full-Stack Web Developer and Programmer with over 11 years of experience in modern web technologies, application design, and digital systems. I’m also the Owner of WonderlandXXX Ind™, an 18+ industry where I lead creative and technical projects along with goods and services, marketing, and other company extensions.
 
-Beyond that, I work as a freelance developer, editor, and Discord bot creator, collaborating with a wide range of clients, businesses, and communities. I particularly enjoy working with small businesses — there’s something special about watching their growth happen in real time.
+Beyond that, I work as a **freelance developer, editor, and Discord bot creator**, collaborating with a wide range of clients, businesses, and communities. I particularly enjoy working with **small businesses** — there’s something special about watching their growth happen in real time.
 
-Coding and coffee are my life, and I’m always eager to connect, innovate, and bring ideas to life.
+Coding and coffee are my life, and **I’m always eager to connect**, innovate, and bring ideas to life.
 
-I’m currently collaborating with Modulix, powered by Chartis, a forward-thinking project focused on networking, growth, and connectivity across the Discord and business landscape.
+I’m currently collaborating with **Modulix, powered by Chartis**, a forward-thinking project focused on **networking, growth, and connectivity** across the Discord and business landscape.
 
-I’m always open to inquiries. My working hours are Mon — Friday 8:45am to 5pm CET, and I’m fluidly available via email and Discord outside those hours.
+**I’m always open to inquiries**. My working hours are **Mon — Friday 8:45am to 5pm CET**, and I’m fluidly available via email and Discord outside those hours.
 
 <!-- animated emoji sprinkles -->
 <p align="center">
