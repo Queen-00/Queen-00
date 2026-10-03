@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" role="img" aria-label="bot">
+<defs>
+  <linearGradient id="i-bot" gradientUnits="userSpaceOnUse" x1="2" y1="2" x2="22" y2="22"><stop offset="0" stop-color="#bda6ff"/><stop offset="1" stop-color="#4ff7ff"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 12 12;360 12 12" dur="6s" repeatCount="indefinite"/></linearGradient>
+  <filter id="i-bot-g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.1"/></filter>
+</defs>
+<g fill="none" stroke="url(#i-bot)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <g filter="url(#i-bot-g)" opacity="0.6"><animate attributeName="opacity" values="0.25;0.75;0.25" dur="2.6s" repeatCount="indefinite"/><rect x="5" y="8" width="14" height="11" rx="3"/><path d="M12 5 V8 M10 16 H14 M3 12 V15 M21 12 V15"/><circle cx="12" cy="4" r="1.1"/><circle cx="9.5" cy="12.5" r="1.1"/><circle cx="14.5" cy="12.5" r="1.1"/></g>
+  <rect x="5" y="8" width="14" height="11" rx="3"/><path d="M12 5 V8 M10 16 H14 M3 12 V15 M21 12 V15"/><circle cx="12" cy="4" r="1.1"/><circle cx="9.5" cy="12.5" r="1.1"/><circle cx="14.5" cy="12.5" r="1.1"/>
+</g>
+</svg>

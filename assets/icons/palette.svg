@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" role="img" aria-label="palette">
+<defs>
+  <linearGradient id="i-palette" gradientUnits="userSpaceOnUse" x1="2" y1="2" x2="22" y2="22"><stop offset="0" stop-color="#ff4fae"/><stop offset="1" stop-color="#ffd95e"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 12 12;360 12 12" dur="6s" repeatCount="indefinite"/></linearGradient>
+  <filter id="i-palette-g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.1"/></filter>
+</defs>
+<g fill="none" stroke="url(#i-palette)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <g filter="url(#i-palette-g)" opacity="0.6"><animate attributeName="opacity" values="0.25;0.75;0.25" dur="2.6s" repeatCount="indefinite"/><path d="M12 3 C7 3 3 6.8 3 11.5 C3 16 6.5 20 11 20 C12.5 20 13 19 12.5 17.8 C12 16.5 12.8 15.5 14 15.5 H16 C19 15.5 21 13.5 21 11 C21 6.5 17 3 12 3 Z"/><circle cx="8" cy="10.5" r="1.2"/><circle cx="11" cy="7" r="1.2"/><circle cx="15.5" cy="7.5" r="1.2"/><circle cx="17.5" cy="11" r="1.2"/></g>
+  <path d="M12 3 C7 3 3 6.8 3 11.5 C3 16 6.5 20 11 20 C12.5 20 13 19 12.5 17.8 C12 16.5 12.8 15.5 14 15.5 H16 C19 15.5 21 13.5 21 11 C21 6.5 17 3 12 3 Z"/><circle cx="8" cy="10.5" r="1.2"/><circle cx="11" cy="7" r="1.2"/><circle cx="15.5" cy="7.5" r="1.2"/><circle cx="17.5" cy="11" r="1.2"/>
+</g>
+</svg>

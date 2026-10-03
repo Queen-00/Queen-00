@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" role="img" aria-label="film">
+<defs>
+  <linearGradient id="i-film" gradientUnits="userSpaceOnUse" x1="2" y1="2" x2="22" y2="22"><stop offset="0" stop-color="#ff8ccc"/><stop offset="1" stop-color="#bda6ff"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 12 12;360 12 12" dur="6s" repeatCount="indefinite"/></linearGradient>
+  <filter id="i-film-g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.1"/></filter>
+</defs>
+<g fill="none" stroke="url(#i-film)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <g filter="url(#i-film-g)" opacity="0.6"><animate attributeName="opacity" values="0.25;0.75;0.25" dur="2.6s" repeatCount="indefinite"/><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M7 5 V19 M17 5 V19 M3 9 H7 M3 15 H7 M17 9 H21 M17 15 H21 M10.5 9.5 L14 12 L10.5 14.5 Z"/></g>
+  <rect x="3" y="5" width="18" height="14" rx="2"/><path d="M7 5 V19 M17 5 V19 M3 9 H7 M3 15 H7 M17 9 H21 M17 15 H21 M10.5 9.5 L14 12 L10.5 14.5 Z"/>
+</g>
+</svg>

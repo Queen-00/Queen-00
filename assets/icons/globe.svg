@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" role="img" aria-label="globe">
+<defs>
+  <linearGradient id="i-globe" gradientUnits="userSpaceOnUse" x1="2" y1="2" x2="22" y2="22"><stop offset="0" stop-color="#3dffc5"/><stop offset="1" stop-color="#4ff7ff"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 12 12;360 12 12" dur="6s" repeatCount="indefinite"/></linearGradient>
+  <filter id="i-globe-g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.1"/></filter>
+</defs>
+<g fill="none" stroke="url(#i-globe)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <g filter="url(#i-globe-g)" opacity="0.6"><animate attributeName="opacity" values="0.25;0.75;0.25" dur="2.6s" repeatCount="indefinite"/><circle cx="12" cy="12" r="9"/><ellipse cx="12" cy="12" rx="4" ry="9"/><path d="M3 12 H21"/></g>
+  <circle cx="12" cy="12" r="9"/><ellipse cx="12" cy="12" rx="4" ry="9"/><path d="M3 12 H21"/>
+</g>
+</svg>

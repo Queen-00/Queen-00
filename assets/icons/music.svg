@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" role="img" aria-label="music">
+<defs>
+  <linearGradient id="i-music" gradientUnits="userSpaceOnUse" x1="2" y1="2" x2="22" y2="22"><stop offset="0" stop-color="#ffd95e"/><stop offset="1" stop-color="#ff4fae"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 12 12;360 12 12" dur="6s" repeatCount="indefinite"/></linearGradient>
+  <filter id="i-music-g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.1"/></filter>
+</defs>
+<g fill="none" stroke="url(#i-music)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <g filter="url(#i-music-g)" opacity="0.6"><animate attributeName="opacity" values="0.25;0.75;0.25" dur="2.6s" repeatCount="indefinite"/><path d="M9 18 V6 L19 4 V16"/><circle cx="7" cy="18" r="2.2"/><circle cx="17" cy="16" r="2.2"/></g>
+  <path d="M9 18 V6 L19 4 V16"/><circle cx="7" cy="18" r="2.2"/><circle cx="17" cy="16" r="2.2"/>
+</g>
+</svg>

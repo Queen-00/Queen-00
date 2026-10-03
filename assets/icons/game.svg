@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" role="img" aria-label="game">
+<defs>
+  <linearGradient id="i-game" gradientUnits="userSpaceOnUse" x1="2" y1="2" x2="22" y2="22"><stop offset="0" stop-color="#4ff7ff"/><stop offset="1" stop-color="#3dffc5"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 12 12;360 12 12" dur="6s" repeatCount="indefinite"/></linearGradient>
+  <filter id="i-game-g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.1"/></filter>
+</defs>
+<g fill="none" stroke="url(#i-game)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <g filter="url(#i-game-g)" opacity="0.6"><animate attributeName="opacity" values="0.25;0.75;0.25" dur="2.6s" repeatCount="indefinite"/><path d="M7 8 H17 C20 8 22 11 22 15 C22 18 20 19 18.5 17.5 L16 15 H8 L5.5 17.5 C4 19 2 18 2 15 C2 11 4 8 7 8 Z M7 10.5 V13.5 M5.5 12 H8.5"/><circle cx="16" cy="11" r="0.9"/><circle cx="18" cy="13" r="0.9"/></g>
+  <path d="M7 8 H17 C20 8 22 11 22 15 C22 18 20 19 18.5 17.5 L16 15 H8 L5.5 17.5 C4 19 2 18 2 15 C2 11 4 8 7 8 Z M7 10.5 V13.5 M5.5 12 H8.5"/><circle cx="16" cy="11" r="0.9"/><circle cx="18" cy="13" r="0.9"/>
+</g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" role="img" aria-label="ai">
+<defs>
+  <linearGradient id="i-ai" gradientUnits="userSpaceOnUse" x1="2" y1="2" x2="22" y2="22"><stop offset="0" stop-color="#9f72ff"/><stop offset="1" stop-color="#4ff7ff"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 12 12;360 12 12" dur="6s" repeatCount="indefinite"/></linearGradient>
+  <filter id="i-ai-g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.1"/></filter>
+</defs>
+<g fill="none" stroke="url(#i-ai)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <g filter="url(#i-ai-g)" opacity="0.6"><animate attributeName="opacity" values="0.25;0.75;0.25" dur="2.6s" repeatCount="indefinite"/><path d="M6 7 L12 12 L18 7 M6 17 L12 12 L18 17 M6 7 V17 M18 7 V17"/><circle cx="6" cy="7" r="1.8"/><circle cx="6" cy="17" r="1.8"/><circle cx="12" cy="12" r="2.2"/><circle cx="18" cy="7" r="1.8"/><circle cx="18" cy="17" r="1.8"/></g>
+  <path d="M6 7 L12 12 L18 7 M6 17 L12 12 L18 17 M6 7 V17 M18 7 V17"/><circle cx="6" cy="7" r="1.8"/><circle cx="6" cy="17" r="1.8"/><circle cx="12" cy="12" r="2.2"/><circle cx="18" cy="7" r="1.8"/><circle cx="18" cy="17" r="1.8"/>
+</g>
+</svg>

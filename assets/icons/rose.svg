@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" role="img" aria-label="rose">
+<defs>
+  <linearGradient id="i-rose" gradientUnits="userSpaceOnUse" x1="2" y1="2" x2="22" y2="22"><stop offset="0" stop-color="#ff4fae"/><stop offset="1" stop-color="#3dffc5"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 12 12;360 12 12" dur="6s" repeatCount="indefinite"/></linearGradient>
+  <filter id="i-rose-g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.1"/></filter>
+</defs>
+<g fill="none" stroke="url(#i-rose)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <g filter="url(#i-rose-g)" opacity="0.6"><animate attributeName="opacity" values="0.25;0.75;0.25" dur="2.6s" repeatCount="indefinite"/><path d="M12 4 C8 4 7 7.5 8.5 10 C10 12.5 14 12.5 15.5 10 C17 7.5 16 4 12 4 Z M12 7 C10.8 7 10.5 8.3 11.4 9 M12 12 V21 M12 16 C10 14.5 7.5 14.8 6.5 16.5 C8.5 17.5 10.5 17.2 12 16 M12 18 C13.6 16.8 15.8 16.9 17 18.3"/></g>
+  <path d="M12 4 C8 4 7 7.5 8.5 10 C10 12.5 14 12.5 15.5 10 C17 7.5 16 4 12 4 Z M12 7 C10.8 7 10.5 8.3 11.4 9 M12 12 V21 M12 16 C10 14.5 7.5 14.8 6.5 16.5 C8.5 17.5 10.5 17.2 12 16 M12 18 C13.6 16.8 15.8 16.9 17 18.3"/>
+</g>
+</svg>

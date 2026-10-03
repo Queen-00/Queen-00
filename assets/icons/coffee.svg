@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" role="img" aria-label="coffee">
+<defs>
+  <linearGradient id="i-coffee" gradientUnits="userSpaceOnUse" x1="2" y1="2" x2="22" y2="22"><stop offset="0" stop-color="#ffd95e"/><stop offset="1" stop-color="#ff8ccc"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 12 12;360 12 12" dur="6s" repeatCount="indefinite"/></linearGradient>
+  <filter id="i-coffee-g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.1"/></filter>
+</defs>
+<g fill="none" stroke="url(#i-coffee)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <g filter="url(#i-coffee-g)" opacity="0.6"><animate attributeName="opacity" values="0.25;0.75;0.25" dur="2.6s" repeatCount="indefinite"/><path d="M4 9.5 H16 V14 C16 17 13.5 19.5 10 19.5 C6.5 19.5 4 17 4 14 Z M16 10.5 H17.8 C19.3 10.5 20 11.4 20 12.6 C20 14 19 15 16 15"/><path d="M8 2.8 C7 4.3 9 4.8 8 6.5 M12 2.8 C11 4.3 13 4.8 12 6.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" repeatCount="indefinite"/></path></g>
+  <path d="M4 9.5 H16 V14 C16 17 13.5 19.5 10 19.5 C6.5 19.5 4 17 4 14 Z M16 10.5 H17.8 C19.3 10.5 20 11.4 20 12.6 C20 14 19 15 16 15"/><path d="M8 2.8 C7 4.3 9 4.8 8 6.5 M12 2.8 C11 4.3 13 4.8 12 6.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" repeatCount="indefinite"/></path>
+</g>
+</svg>

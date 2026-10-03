@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" role="img" aria-label="sparkle">
+<defs>
+  <linearGradient id="i-sparkle" gradientUnits="userSpaceOnUse" x1="2" y1="2" x2="22" y2="22"><stop offset="0" stop-color="#ffd95e"/><stop offset="1" stop-color="#ff4fae"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 12 12;360 12 12" dur="6s" repeatCount="indefinite"/></linearGradient>
+  <filter id="i-sparkle-g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.1"/></filter>
+</defs>
+<g fill="none" stroke="url(#i-sparkle)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <g filter="url(#i-sparkle-g)" opacity="0.6"><animate attributeName="opacity" values="0.25;0.75;0.25" dur="2.6s" repeatCount="indefinite"/><path d="M12 2.5 C12.6 8.5 15.5 11.4 21.5 12 C15.5 12.6 12.6 15.5 12 21.5 C11.4 15.5 8.5 12.6 2.5 12 C8.5 11.4 11.4 8.5 12 2.5 Z"/><path d="M19 3 V6.5 M17.2 4.8 H20.8"/></g>
+  <path d="M12 2.5 C12.6 8.5 15.5 11.4 21.5 12 C15.5 12.6 12.6 15.5 12 21.5 C11.4 15.5 8.5 12.6 2.5 12 C8.5 11.4 11.4 8.5 12 2.5 Z"/><path d="M19 3 V6.5 M17.2 4.8 H20.8"/>
+</g>
+</svg>

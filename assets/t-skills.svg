@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="56" viewBox="0 0 620 56" role="img" aria-label="TypeScript has my whole heart ♥">
+<defs>
+  <linearGradient id="t2" gradientUnits="userSpaceOnUse" spreadMethod="reflect" x1="0" y1="0" x2="620" y2="0">
+    <stop offset="0" stop-color="#ff4fae"/><stop offset="0.5" stop-color="#bda6ff"/><stop offset="1" stop-color="#ff4fae"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="0 0;620 0" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
+</defs>
+<rect x="1" y="1" width="618" height="54" rx="27" fill="#0b0818" opacity="0.92"/>
+<rect x="1" y="1" width="618" height="54" rx="27" fill="none" stroke="url(#t2)" stroke-opacity="0.35"/>
+<g transform="translate(26 28)"><path d="M0 -8 C 1.44 -1.44 1.44 -1.44 8 0 C 1.44 1.44 1.44 1.44 0 8 C -1.44 1.44 -1.44 1.44 -8 0 C -1.44 -1.44 -1.44 -1.44 0 -8 Z" fill="#ff4fae"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" begin="0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="0.7;1.15;0.7" dur="2.4s" begin="0s" repeatCount="indefinite"/></path></g><g transform="translate(594 28)"><path d="M0 -8 C 1.44 -1.44 1.44 -1.44 8 0 C 1.44 1.44 1.44 1.44 0 8 C -1.44 1.44 -1.44 1.44 -8 0 C -1.44 -1.44 -1.44 -1.44 0 -8 Z" fill="#bda6ff"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" begin="1.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="0.7;1.15;0.7" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></path></g>
+<text x="310" y="36" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-style="italic" font-size="24" font-weight="700" fill="url(#t2)">TypeScript has my whole heart ♥</text>
+</svg>
