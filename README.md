@@ -88,7 +88,7 @@ Creators, streamers, businesses, start-ups, gamers, influencers: whatever you're
 - <img src="assets/icons/ai.svg" width="20" height="20" alt="" /> **AI Integration & Consulting:** 3+ years with AI tools, prompting and practical workflows.
 - <img src="assets/icons/quill.svg" width="20" height="20" alt="" /> **Writing & Storytelling:** original fiction and custom stories, available directly through me.
 
-> **Rates are flexible & budget-friendly.** Share your scope and timeline and we'll make it work. I especially love helping small businesses and start-ups get off the ground. <img src="assets/icons/sprout.svg" width="20" height="20" alt="" />
+> **Rates are flexible & budget-friendly.** Share your scope & timeline & we'll make it work. I especially love helping small businesses & startups get off the ground. <img src="assets/icons/sprout.svg" width="20" height="20" alt="" />
 
 <img src="assets/divider-3.svg" width="100%" alt="" />
 
