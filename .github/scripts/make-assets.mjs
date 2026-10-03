@@ -161,6 +161,43 @@ ${extra ? extra(wy) : ''}
 `
 }
 
+// ─── Small glowing vine sprig (sits between paragraphs) ───────────────────────
+function sprig(seed, a, b, petal) {
+  const W = 420, H = 56, cx = W / 2, cy = 28, id = 's' + seed, r = rng(seed)
+  const wob = (t) => cy + Math.sin(t / 13 + seed) * 6 * (1 - t / 175)
+  // vine runs along the line on both sides of the flower, with tiny leaves
+  const vineSide = (dir) => {
+    let d = `M${cx + dir * 14} ${r1(wob(0))}`, ls = ''
+    for (let t = 4; t <= 150; t += 4) d += ` L${cx + dir * (14 + t)} ${r1(wob(t))}`
+    for (let t = 16, i = 0; t < 140; t += 15 + r() * 5, i++) ls += leaf(cx + dir * (14 + t), wob(t), dir * (i % 2 ? 55 : 125), 0.78 * (1 - t / 230), LEAVES[i % 4])
+    const tip = cx + dir * 164
+    ls += `<circle cx="${tip}" cy="${r1(wob(150))}" r="3" fill="${b}"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/></circle>`
+    return `<path d="${d}" stroke="#2a9d66" stroke-width="2.4" fill="none" stroke-linecap="round"/>${ls}`
+  }
+  let motes = ''
+  for (let i = 0; i < 10; i++) {
+    const x = r1(40 + r() * (W - 80)), c = [a, b, petal][i % 3], dur = r1(2.4 + r() * 2), d = r1(-r() * dur)
+    motes += `<circle cx="${x}" cy="${cy}" r="${r1(1.4 + r() * 1.4)}" fill="${c}" opacity="0"><animate attributeName="cy" values="${cy + 8};${cy - 24}" dur="${dur}s" begin="${d}s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="${dur}s" begin="${d}s" repeatCount="indefinite"/></circle>`
+  }
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="vine divider">
+<defs>
+  <linearGradient id="${id}" gradientUnits="userSpaceOnUse" spreadMethod="reflect" x1="0" y1="0" x2="${W / 2}" y2="0">
+    <stop offset="0" stop-color="${a}" stop-opacity="0"/><stop offset="0.45" stop-color="${a}"/><stop offset="1" stop-color="${b}"/>
+  </linearGradient>
+  <linearGradient id="${id}-sh" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="80" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="-80 0;${W} 0" dur="3.5s" repeatCount="indefinite"/></linearGradient>
+  <filter id="${id}-g" x="-10%" y="-400%" width="120%" height="900%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect x="10" y="${cy - 1.75}" width="${W - 20}" height="3.5" rx="1.75" fill="url(#${id})" filter="url(#${id}-g)"><animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/></rect>
+<rect x="10" y="${cy - 1.1}" width="${W - 20}" height="2.2" rx="1.1" fill="url(#${id})"/>
+<rect x="10" y="${cy - 1.1}" width="${W - 20}" height="2.2" rx="1.1" fill="url(#${id}-sh)" opacity="0.6"/>
+${vineSide(-1)}${vineSide(1)}
+${motes}
+<g><animateTransform attributeName="transform" type="rotate" values="0 ${cx} ${cy};360 ${cx} ${cy}" dur="24s" repeatCount="indefinite"/>${flower(cx, cy, 2, petal, 0)}</g>
+</svg>
+`
+}
+
 // ─── Coloured taglines (short lines of shimmering text under each header) ────
 function tagline(text, from, to, seed) {
   const W = 620, H = 56, id = 't' + seed
@@ -336,3 +373,6 @@ save('btn-portfolio.svg', button('bp', 'Visit my portfolio', C.pink, C.lavender)
 save('btn-games.svg', button('bg', 'Play my mini games', C.cyan, C.green))
 save('btn-music.svg', button('bm', 'Tune in: lofi radio', C.gold, C.pink))
 console.log('assets written')
+save('sprig-1.svg', sprig(1, C.lavender, C.cyan, C.pink))
+save('sprig-2.svg', sprig(2, C.pink, C.gold, C.lavender))
+save('sprig-3.svg', sprig(3, C.cyan, C.green, C.rose))

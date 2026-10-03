@@ -30,9 +30,15 @@
 
 I started messing with code at **13**, got completely obsessed by **15**, and never looked back. Now in my early 30s with **16+ years** of experience, from scrappy teenage experiments to running a full **18+ empire**.
 
+<p align="center"><img src="assets/sprig-1.svg" width="360" alt="" /></p>
+
 I'm the **Owner, CEO & Founder** of **WonderlandXXX Industries™**, a company I built entirely from scratch: networking, branding, community, subsidiaries and all.
 
+<p align="center"><img src="assets/sprig-2.svg" width="360" alt="" /></p>
+
 I'm equally at home writing **novels across many genres** and growing a multi-level platform with diverse services. **TypeScript has my whole heart**, coffee is my daily hero, and the best deadline is the one that challenges me. Team player, but I prefer solo work: give me your scope, preferences and deadline, and I'll build something that makes you say *"I didn't know it could look like that."*
+
+<p align="center"><img src="assets/sprig-3.svg" width="360" alt="" /></p>
 
 <img src="assets/icons/sparkle.svg" width="20" height="20" alt="" /> Currently collaborating with **Modulix, powered by Chartis**: networking, growth and connectivity. I believe in better businesses and making even the smallest budget feel big. **No matter what you do, I can build your vision.**
 
