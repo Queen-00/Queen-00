@@ -1,297 +1,202 @@
-<!-- TOP BANNER (transparent .gif/.apng) -->
-<div align="center">
-  <img src="https://media.giphy.com/media/JlJJU8Rd2QP4qxjNBc/giphy.gif" alt="Queen — banner" width="560" />
-</div>
+<!-- Every graphic here is an image file (assets/ and generated/), so it renders and animates
+     the same on github.com, mobile browsers and the GitHub app. -->
 
-<!-- COLORED, MOBILE-SAFE TITLE (typing svg renders on desktop & mobile) -->
+<a href="https://www.wland.online/Portfolios/Queen">
+  <img src="assets/banner.svg" width="100%" alt="Queen — Full-Stack Developer · Game Dev · Creator" />
+</a>
+
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2800&pause=700&size=26&center=true&vCenter=true&width=720&color=9B5CFF&lines=Heya%2C+I'm+Queen!;Developer+%E2%80%A2+Editor+%E2%80%A2+Designer;Discord+Bots+%7C+AI+%7C+Web+%7C+3D%2Fthree.js"
-    alt="Typing SVG greeting"
-  />
+  <a href="https://www.wland.online/Portfolios/Queen">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=BDA6FF&center=true&vCenter=true&width=720&lines=Heya%2C+I'm+Queen!+%F0%9F%8C%99;Full-Stack+Developer+%C2%B7+Game+Dev+%C2%B7+Creator;Next.js+%C2%B7+TypeScript+%E2%99%A5+%C2%B7+Three.js+%C2%B7+Phaser;Discord+bots+%C2%B7+3D+web+%C2%B7+music+made+in+code;Give+me+a+vision+and+I'll+build+you+a+world+%E2%9C%A8" alt="Typing intro" />
+  </a>
 </p>
 
-<!-- Neon divider -->
 <p align="center">
-  <svg width="720" height="6" viewBox="0 0 720 6">
-    <defs>
-      <linearGradient id="g" x1="0" x2="1">
-        <stop offset="0%" stop-color="#00E5FF"/>
-        <stop offset="50%" stop-color="#FF00CC"/>
-        <stop offset="100%" stop-color="#9B5CFF"/>
-      </linearGradient>
-    </defs>
-    <rect x="0" y="1" width="720" height="4" rx="2" fill="url(#g)"/>
-  </svg>
+  <a href="https://www.wland.online/Portfolios/Queen"><img src="assets/btn-portfolio.svg" alt="Visit my portfolio" /></a>
+  <a href="https://www.wland.online/Portfolios/Queen#games"><img src="assets/btn-games.svg" alt="Play my mini games" /></a>
+  <a href="https://www.wland.online/Portfolios/Queen#music"><img src="assets/btn-music.svg" alt="Tune in to my lofi radio" /></a>
 </p>
 
-<!-- PURPLE-THEMED TECH BADGES -->
 <p align="center">
-  <!-- core -->
-  <img src="https://img.shields.io/badge/JavaScript-9B5CFF?logo=javascript&logoColor=000&labelColor=2C2F33" />
-  <img src="https://img.shields.io/badge/TypeScript-9B5CFF?logo=typescript&logoColor=fff&labelColor=2C2F33" />
-  <img src="https://img.shields.io/badge/React-9B5CFF?logo=react&logoColor=000&labelColor=2C2F33" />
-  <img src="https://img.shields.io/badge/Next.js-9B5CFF?logo=nextdotjs&logoColor=fff&labelColor=2C2F33" />
-  <img src="https://img.shields.io/badge/three.js-9B5CFF?logo=threedotjs&logoColor=fff&labelColor=2C2F33" />
-  <img src="https://img.shields.io/badge/Vercel-9B5CFF?logo=vercel&logoColor=fff&labelColor=2C2F33" />
-  <img src="https://img.shields.io/badge/Yarn-9B5CFF?logo=yarn&logoColor=fff&labelColor=2C2F33" />
-  <img src="https://img.shields.io/badge/npm-9B5CFF?logo=npm&logoColor=fff&labelColor=2C2F33" />
-  <br/>
-  <!-- extras -->
-  <img src="https://img.shields.io/badge/Ruby-9B5CFF?logo=ruby&logoColor=fff&labelColor=2C2F33" />
-  <img src="https://img.shields.io/badge/Supabase-9B5CFF?logo=supabase&logoColor=000&labelColor=2C2F33" />
-  <img src="https://img.shields.io/badge/CSS3-9B5CFF?logo=css3&logoColor=fff&labelColor=2C2F33" />
-  <img src="https://img.shields.io/badge/HTML5-9B5CFF?logo=html5&logoColor=fff&labelColor=2C2F33" />
-  <img src="https://img.shields.io/badge/Node.js-9B5CFF?logo=nodedotjs&logoColor=fff&labelColor=2C2F33" />
-  <img src="https://img.shields.io/badge/Linux-9B5CFF?logo=linux&logoColor=000&labelColor=2C2F33" />
-  <img src="https://img.shields.io/badge/Java-9B5CFF?logo=openjdk&logoColor=fff&labelColor=2C2F33" />
-  <img src="https://img.shields.io/badge/Python-9B5CFF?logo=python&logoColor=fff&labelColor=2C2F33" />
-  <img src="https://img.shields.io/badge/PHP-9B5CFF?logo=php&logoColor=fff&labelColor=2C2F33" />
-  <img src="https://img.shields.io/badge/C%2B%2B-9B5CFF?logo=cplusplus&logoColor=fff&labelColor=2C2F33" />
-  <!-- JSX has no official Simple Icons logo, so omitted -->
+  <img src="https://img.shields.io/badge/Available_for-freelance_%26_collabs-3dffc5?style=flat-square&labelColor=160f33" alt="Available for freelance and collabs" />
+  <img src="https://img.shields.io/badge/Mon%E2%80%93Fri-8%3A45am%E2%80%935pm_CET-ffd95e?style=flat-square&labelColor=160f33" alt="Mon–Fri 8:45am–5pm CET" />
+  <img src="https://komarev.com/ghpvc/?username=Queen-00&label=Profile%20visits&color=bda6ff&style=flat-square" alt="Profile visits" />
 </p>
 
-<!-- INTRO — purple header (left-aligned) --><p align="left">
-  <img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="22" alt="coding" />
-  <img src="https://img.shields.io/badge/Intro-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Intro" />
-</p>Heya! I’m Queen, a Full-Stack Web Developer and Programmer with over 11 years of experience in modern web technologies, application design, and digital systems. I’m also the Owner of WonderlandXXX Ind™, an 18+ industry where I lead creative and technical projects along with goods and services, marketing, and other company extensions.
+<img src="assets/divider-1.svg" width="100%" alt="" />
 
-Beyond that, I work as a **freelance developer, editor, and Discord bot creator**, collaborating with a wide range of clients, businesses, and communities. I particularly enjoy working with **small businesses** — there’s something special about watching their growth happen in real time.
+<p align="center"><img src="assets/h-about.svg" width="100%" alt="Heya, I'm Queen!" /></p>
 
-Coding and coffee are my life, and **I’m always eager to connect**, innovate, and bring ideas to life.
+I started messing with code at **13**, got completely obsessed by **15**, and never looked back. Now in my early 30s with **16+ years** of experience, from scrappy teenage experiments to running a full **18+ empire**.
 
-I’m currently collaborating with **Modulix, powered by Chartis**, a forward-thinking project focused on **networking, growth, and connectivity** across the Discord and business landscape.
+I'm the **Owner, CEO & Founder** of **WonderlandXXX Industries™**, a company I built entirely from scratch: networking, branding, community, subsidiaries and all.
 
-**I’m always open to inquiries**. My working hours are **Mon — Friday 8:45am to 5pm CET**, and I’m fluidly available via email and Discord outside those hours.
+I'm equally at home writing **novels across many genres** and growing a multi-level platform with diverse services. **TypeScript has my whole heart**, coffee is my daily hero, and the best deadline is the one that challenges me. Team player, but I prefer solo work: give me your scope, preferences and deadline, and I'll build something that makes you say *"I didn't know it could look like that."*
 
-<!-- animated emoji sprinkles -->
+✨ Currently collaborating with **Modulix, powered by Chartis**: networking, growth and connectivity. I believe in better businesses and making even the smallest budget feel big. **No matter what you do, I can build your vision.**
+
 <p align="center">
-  <img src="https://media.giphy.com/media/QnZal34ldLmSxO7qqB/giphy.gif" width="28" alt="tech sparkle" />
-  <img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="28" alt="coding" />
-  <img src="https://media.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif" width="28" alt="laptop" />
-  <img src="https://media.giphy.com/media/gGxJ9P0d6S6Kect4Ub/giphy.gif" width="28" alt="retro bubble" />
+  <img src="https://img.shields.io/badge/16%2B_years-coding-4ff7ff?style=for-the-badge&labelColor=160f33" alt="16+ years coding" />
+  <img src="https://img.shields.io/badge/11%2B_years-professional-bda6ff?style=for-the-badge&labelColor=160f33" alt="11+ years professional" />
+  <img src="https://img.shields.io/badge/3%2B_years-AI_training-ff4fae?style=for-the-badge&labelColor=160f33" alt="3+ years AI training" />
+  <img src="https://img.shields.io/badge/%E2%88%9E-coffees_consumed-ffd95e?style=for-the-badge&labelColor=160f33" alt="Infinite coffees consumed" />
 </p>
 
----
-
-<!-- ABOUT ME — purple header (left-aligned) -->
-<p align="left">
-  <img src="https://media.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif" width="22" alt="laptop" />
-  <img src="https://img.shields.io/badge/About%20me-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="About me" />
-</p>
+<details>
+<summary><b>☕ Click to peek at my source code</b></summary>
+<br />
 
 ```ts
-const Queen = {
-  pronouns: "she/her (chill vibes only)",
-  interests: [
-    "discord bot development",
-    "AI",
-    "graphic design",
-    "3D modeling",
-    "Photoshop",
-    "web design",
-    "web programming",
-  ],
-  currentlyLearning: [
-    "full stack web dev, getting more into AI for Discord bots without hosted AI services",
-  ],
-  lookingToCollaborateWith: [
-    "with fellow full stack devs (JS, TS & Python)",
-  ],
-  contact: {
-    discord: "xqueen_of_the_dammedx",
-    email: "gypsyqueend00@gmail.com",
-  },
-  funFact:
-    "Working on 2 Discord apps, growing a business, revising and updating company site weekly; JS is my fave for collab-friendly builds, but TS is my all-time fave that has my heart. Editor by passion, dev by love.",
-  availability:
-    "Schedule is hectic/unpredictable, but I do collabs & freelance when I can.",
-  accountNotes:
-    "New account for a team under my company. Personal repos separate; many app repos private until publication.",
+const queen = {
+  pronouns: "she/her",
+  roles: ["Full-Stack Developer", "Game Developer", "Editor & Designer", "Writer & Author"],
+  company: "WonderlandXXX Industries™ (Owner, CEO & Founder)",
+  portfolio: "https://www.wland.online/Portfolios/Queen",
+  loves: ["TypeScript ♥", "Three.js & 3D web", "browser games", "lofi", "rainy nights", "coffee"],
+  currentlyLearning: ["Unity (C#)", "Verse / UEFN"],
+  openTo: ["freelance", "collabs", "small businesses & start-ups"],
+  hours: "Mon–Fri 8:45am–5pm CET (email & Discord outside hours)",
+  funFact: "Every song on my portfolio is music I made in code. No audio files!",
 };
 ```
 
-<!-- ===================== FEATURE #1: NEON SKILL BARS ===================== -->
-<!-- pure SVG; adjust colored bar widths (0–396) to taste -->
-<div align="center">
+</details>
 
-  <!-- JavaScript -->
-  <svg viewBox="0 0 400 36" width="100%" height="36" role="img" aria-label="JavaScript — expert">
-    <defs>
-      <linearGradient id="gradJS" x1="0" x2="1">
-        <stop offset="0%"  stop-color="#00e5ff"/>
-        <stop offset="50%" stop-color="#ff00cc"/>
-        <stop offset="100%" stop-color="#9b5cff"/>
-      </linearGradient>
-    </defs>
-    <rect x="2" y="2" rx="12" ry="12" width="396" height="24" fill="#0b0b1a" stroke="#3a0a47"/>
-    <rect x="2" y="2" rx="12" ry="12" width="360" height="24" fill="url(#gradJS)"/>
-    <text x="12" y="19" fill="#eaeaea" font-size="12" font-family="ui-monospace, SFMono-Regular">JavaScript — expert</text>
-  </svg>
+<img src="assets/divider-2.svg" width="100%" alt="" />
 
-  <!-- TypeScript -->
-  <svg viewBox="0 0 400 36" width="100%" height="36" role="img" aria-label="TypeScript — advanced">
-    <defs><linearGradient id="gradTS" x1="0" x2="1">
-      <stop offset="0%" stop-color="#00e5ff"/><stop offset="50%" stop-color="#ff00cc"/><stop offset="100%" stop-color="#9b5cff"/>
-    </linearGradient></defs>
-    <rect x="2" y="2" rx="12" ry="12" width="396" height="24" fill="#0b0b1a" stroke="#3a0a47"/>
-    <rect x="2" y="2" rx="12" ry="12" width="340" height="24" fill="url(#gradTS)"/>
-    <text x="12" y="19" fill="#eaeaea" font-size="12" font-family="ui-monospace, SFMono-Regular">TypeScript — advanced</text>
-  </svg>
+<p align="center"><img src="assets/h-build.svg" width="100%" alt="What I Build" /></p>
 
-  <!-- three.js -->
-  <svg viewBox="0 0 400 36" width="100%" height="36" role="img" aria-label="three.js — strong">
-    <defs><linearGradient id="grad3" x1="0" x2="1">
-      <stop offset="0%" stop-color="#00e5ff"/><stop offset="50%" stop-color="#ff00cc"/><stop offset="100%" stop-color="#9b5cff"/>
-    </linearGradient></defs>
-    <rect x="2" y="2" rx="12" ry="12" width="396" height="24" fill="#0b0b1a" stroke="#3a0a47"/>
-    <rect x="2" y="2" rx="12" ry="12" width="320" height="24" fill="url(#grad3)"/>
-    <text x="12" y="19" fill="#eaeaea" font-size="12" font-family="ui-monospace, SFMono-Regular">three.js — strong</text>
-  </svg>
+Creators, streamers, businesses, start-ups, gamers, influencers: whatever you're building, I can create your vision, your way. SFW and NSFW both welcome. 🌸
 
-  <!-- React -->
-  <svg viewBox="0 0 400 36" width="100%" height="36" role="img" aria-label="React — advanced">
-    <defs><linearGradient id="gradR" x1="0" x2="1">
-      <stop offset="0%" stop-color="#00e5ff"/><stop offset="50%" stop-color="#ff00cc"/><stop offset="100%" stop-color="#9b5cff"/>
-    </linearGradient></defs>
-    <rect x="2" y="2" rx="12" ry="12" width="396" height="24" fill="#0b0b1a" stroke="#3a0a47"/>
-    <rect x="2" y="2" rx="12" ry="12" width="340" height="24" fill="url(#gradR)"/>
-    <text x="12" y="19" fill="#eaeaea" font-size="12" font-family="ui-monospace, SFMono-Regular">React — advanced</text>
-  </svg>
+- 💻 **Full-Stack Web Development:** Next.js, React, TypeScript, APIs, auth and databases, from concept to launch.
+- 🌌 **3D & Interactive Experiences:** Three.js, R3F, Framer Motion, particle fields and animated heroes. I make pages breathe.
+- 🎮 **Custom Game Development:** browser, brand and giveaway games with Phaser, Babylon.js, Matter.js and more.
+- 🎧 **Music & Sound in Code:** original soundtracks, jingles and SFX with the Web Audio API, Tone.js and Howler.js.
+- 🤖 **Discord Bot Development:** custom bots, automation and community tooling.
+- 🎨 **Graphic Design & Branding:** logos, stickers, custom art, social content and full brand kits. Photoshop master, Adobe Certified.
+- ✂️ **Editorial & Content:** photo and video editing, menus, promos and ads, sharp and on-brand.
+- 🪞 **Portfolio Creation:** bespoke portfolio pages, [just like mine](https://www.wland.online/Portfolios/Queen).
+- 🧩 **Templates & Starter Designs:** ready-made page and game templates, or fully custom ones from scratch.
+- 🧠 **AI Integration & Consulting:** 3+ years with AI tools, prompting and practical workflows.
+- 🖋️ **Writing & Storytelling:** original fiction and custom stories, available directly through me.
 
-  <!-- Next.js -->
-  <svg viewBox="0 0 400 36" width="100%" height="36" role="img" aria-label="Next.js — advanced">
-    <defs><linearGradient id="gradN" x1="0" x2="1">
-      <stop offset="0%" stop-color="#00e5ff"/><stop offset="50%" stop-color="#ff00cc"/><stop offset="100%" stop-color="#9b5cff"/>
-    </linearGradient></defs>
-    <rect x="2" y="2" rx="12" ry="12" width="396" height="24" fill="#0b0b1a" stroke="#3a0a47"/>
-    <rect x="2" y="2" rx="12" ry="12" width="320" height="24" fill="url(#gradN)"/>
-    <text x="12" y="19" fill="#eaeaea" font-size="12" font-family="ui-monospace, SFMono-Regular">Next.js — advanced</text>
-  </svg>
+> **Rates are flexible & budget-friendly.** Share your scope and timeline and we'll make it work. I especially love helping small businesses and start-ups get off the ground. 🌱
 
-  <!-- Tooling band -->
-  <svg viewBox="0 0 400 36" width="100%" height="36" role="img" aria-label="Vercel • Yarn • npm — power user">
-    <defs><linearGradient id="gradT" x1="0" x2="1">
-      <stop offset="0%" stop-color="#00e5ff"/><stop offset="50%" stop-color="#ff00cc"/><stop offset="100%" stop-color="#9b5cff"/>
-    </linearGradient></defs>
-    <rect x="2" y="2" rx="12" ry="12" width="396" height="24" fill="#0b0b1a" stroke="#3a0a47"/>
-    <rect x="2" y="2" rx="12" ry="12" width="310" height="24" fill="url(#gradT)"/>
-    <text x="12" y="19" fill="#eaeaea" font-size="12" font-family="ui-monospace, SFMono-Regular">Vercel • Yarn • npm — power user</text>
-  </svg>
+<img src="assets/divider-3.svg" width="100%" alt="" />
 
-</div>
+<p align="center"><img src="assets/h-skills.svg" width="100%" alt="Skills & Stack" /></p>
 
-<!-- ===================== FEATURE #3: TODAY'S FOCUS (purple chips) ===================== -->
-**Current focus:**
 <p align="center">
-  <img src="https://img.shields.io/badge/three.js-9B5CFF?label=&logo=threedotjs&logoColor=fff&labelColor=2C2F33" />
-  <img src="https://img.shields.io/badge/UI%20polish-9B5CFF?label=&labelColor=2C2F33" />
-  <img src="https://img.shields.io/badge/Docs%20cleanup-9B5CFF?label=&labelColor=2C2F33" />
+  <img src="assets/skills-core.svg" alt="Core skills" />
+  <img src="assets/skills-creative.svg" alt="Design and creative skills" />
 </p>
 
----
-
-<!-- CORE SPECIALTIES — purple header (left-aligned) -->
-<p align="left">
-  <img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="22" alt="coding" />
-  <img src="https://img.shields.io/badge/Core%20Specialties-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Core Specialties" />
-</p>
-
-I specialize in **JavaScript**, **TypeScript**, **three.js**, **React**, **Next.js**, **Vercel**, **Yarn**, and **npm**.  
-Small interactive UI/graphics and tasteful micro-animations are my jam.. it’s all my jam actually but I enjoy that the most lol
-
----
-
-<!-- COLLABS & SERVICES — purple header (left-aligned) -->
-<p align="left">
-  <img src="https://media.giphy.com/media/QnZal34ldLmSxO7qqB/giphy.gif" width="22" alt="tech" />
-  <img src="https://img.shields.io/badge/Collabs%20%26%20Services-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Collabs & Services" />
-</p>
-
-- I’m **open to collaborations & freelance**, though I get busy.  
-- **Small projects / simple multi-page sites** → I can usually turn these around **quickly** and **affordably**.  
-- **Prices are negotiable** — share scope + timeline and we’ll make it work.
-
----
-
-<!-- TEMPLATES, SNIPPETS & REPOS — purple header (left-aligned) -->
-<p align="left">
-  <img src="https://media.giphy.com/media/QnZal34ldLmSxO7qqB/giphy.gif" width="22" alt="tech" />
-  <img src="https://img.shields.io/badge/Templates%2C%20Snippets%20%26%20Repos-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Templates, Snippets & Repos" />
-</p>
-
-- I’m publishing a **batch of templates**, **reusable components**, and **code snippets** soon.  
-- Several **private projects** are being cleaned up and added here.  
-- A number of my **NDAs are expiring soon**, so I’ll be sharing **additional projects** publicly. Stay tuned.
-
----
-
-<!-- TOOLBOX — purple header (left-aligned) -->
-<p align="left">
-  <img src="https://media.giphy.com/media/gGxJ9P0d6S6Kect4Ub/giphy.gif" width="22" alt="bubble" />
-  <img src="https://img.shields.io/badge/Toolbox-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Toolbox" />
-</p>
-
-- Code: JS/TS, React, Next.js, Node, three.js  
-- Build/Deploy: Vercel, Yarn, npm  
-- Design/Editing: Photoshop (advanced), graphics pipeline, light 3D workflow  
-- Workflow: GitHub projects, issues, lightweight documentation
-
----
-
-<!-- BACKGROUND & CERTS — purple header (left-aligned) -->
-<p align="left">
-  <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="22" alt="404 playful" />
-  <img src="https://img.shields.io/badge/Additional%20Background%20%26%20Certs-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Additional Background & Certs" />
-</p>
-
-- Certification in **Computer Software & Applications**  
-- **Adobe Certified Expert/Professional**  
-- Certification in **HTML**  
-- Familiar with **Python (Django)**  
-- Well-versed in **Java & JavaScript**  
-- Familiar with **PHP**  
-- **Photoshop master** & **Graphic Designer**  
-- Well-versed in **AI editorial programs** (I pick up new tools fast)  
-- Well-versed in **Ruby**  
-- **Basic Swift** (2 courses)  
-- Familiar with **CSS**  
-- **AA in Art Design**  
-- **Adobe Digital Publishing** certificate  
-- Lots of additional classes & online courses  
-  - Want the full résumé? **Email me for a PDF** *(serious inquiries only).*  
-- Dev & editorial started as hobby/side work; I later moved into a **vast variety of chaos**, my main life passion.
-
----
-
-<!-- REACH ME — purple header (left-aligned) -->
-<p align="left">
-  <img src="https://media.giphy.com/media/QuI2G48pcj20qNHE3f/giphy.gif" width="22" alt="mail" />
-  <img src="https://img.shields.io/badge/Reach%20me-9B5CFF?style=for-the-badge&labelColor=2C2F33" alt="Reach me" />
-</p>
-
-<p>
-  <a href="mailto:gypsyqueend00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gypsyqueend00%40gmail.com-red?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/REPLACE_DISCORD_USER_ID">
-    <img src="https://img.shields.io/badge/Discord-@xqueen__of__the__dammedx-5865F2?logo=discord&logoColor=white" />
-  </a>
-</p>
-
-<!-- FOOTNOTE: animated typing note (neon purple, 9 lines, bigger size) -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2800&pause=900&size=22&center=true&vCenter=true&width=720&color=9B5CFF&repeat=true&lines=Thanks%20for%20visiting%20my%20profile%21;If%20you%20have%20a%20question;or%20need%20help%2C;don%27t%20hesitate%20to%20reach%20out.;My%20availability%20can%20be%20a%20bit%20wonky%2C;but%20I%27m%20friendly;and%20happy%20to%20help%20when%20I%20can.;I%20don%27t%20charge%20for%20simple%20questions%2C;help%2C%20or%20inquiries."
-    alt="Footer note typing"
-  />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,threejs,nodejs,tailwind,supabase,postgres,graphql,python,cs,unity,discordjs,vercel,git,github,linux,ps,html,css&perline=11" alt="Tech I use" />
 </p>
 
-<!-- Local time (Berlin) — Option A (very bottom) -->
+<details>
+<summary><b>🧰 Click for my full toolkit</b></summary>
+<br />
+
+**Backend & tools:** TailwindCSS · Supabase · Contentful CMS · GraphQL · NextAuth · Node.js · Resend · Discord.js · Vanta.js · Vercel · PostgreSQL · React Email · Headless UI · Flowbite · Lucide React · Framer Motion · Tone.js · Howler.js · Web Audio API
+
+**Also in my toolkit:** Ruby · PHP · Java · C++ · C# · Swift (basic) · HTML5 & CSS3 · Linux · Sharp · GitHub · Yarn / npm · Matter.js · EasyStar.js · Pathfinding.js · Simplex Noise · UUID · Browser Game Dev · Prompt Engineering · Social Media Strategy
+
+</details>
+
+<img src="assets/divider-1.svg" width="100%" alt="" />
+
+<p align="center"><img src="assets/h-games.svg" width="100%" alt="Game Development" /></p>
+
+Browser gaming is my specialty: arcade games, platformers, puzzle games, physics sandboxes and fully custom branded experiences. From tiny giveaway mini-games to polished multi-level productions, all running right in the browser with no downloads needed.
+
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FEurope%2FBerlin&query=%24.datetime&label=Local%20time&style=flat&color=9B5CFF"
-    alt="Local time — Europe/Berlin"
-  />
+  <img src="assets/skills-games.svg" alt="Game engines and libraries" />
+  <img src="assets/skills-learning.svg" alt="Currently learning Unity and Verse" />
 </p>
 
+<p align="center">
+  <a href="https://www.wland.online/Portfolios/Queen#games"><img src="assets/btn-games.svg" alt="Play my mini games" /></a>
+</p>
+
+<p align="center"><b>🕹️ Four playable mini games live on my portfolio:</b> Rain Catcher (arcade) · Light Match (puzzle) · Kitty Rooftop Run (platformer) · Cozy Stack (Matter.js physics)</p>
+
+<img src="assets/divider-2.svg" width="100%" alt="" />
+
+<p align="center"><img src="assets/h-music.svg" width="100%" alt="Lofi Sound Studio" /></p>
+
+Every song on my portfolio is original music **composed and synthesised in code**, right in the browser: clean guitar, electric piano, dreamy pads, bass and drums, all built note by note with the **Web Audio API**. I make custom soundtracks, jingles and sound effects for games, websites, streams, apps and brands.
+
+<p align="center">
+  <a href="https://www.wland.online/Portfolios/Queen#music"><img src="assets/btn-music.svg" alt="Tune in to my lofi radio" /></a>
+</p>
+
+<img src="assets/divider-3.svg" width="100%" alt="" />
+
+<p align="center"><img src="assets/h-stats.svg" width="100%" alt="My GitHub, in Charts" /></p>
+
+<p align="center">
+  <img src="generated/stats.svg" alt="GitHub stats" />
+  <img src="generated/streak.svg" alt="Contribution streaks" />
+</p>
+
+<p align="center">
+  <img src="generated/calendar.svg" width="100%" alt="Contribution calendar" />
+</p>
+
+<p align="center">
+  <img src="generated/activity.svg" width="100%" alt="Activity over the last 30 days" />
+</p>
+
+<p align="center">
+  <img src="generated/languages.svg" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="generated/snake.svg" width="100%" alt="A snake eating my contribution graph" />
+</p>
+
+<p align="center"><sub>Charts redraw themselves every day ✨ Most of my work lives in private client & company repos, so these only show part of the story.</sub></p>
+
+<img src="assets/divider-1.svg" width="100%" alt="" />
+
+<p align="center"><img src="assets/h-certs.svg" width="100%" alt="Background & Certs" /></p>
+
+- 🎓 **AA in Art Design**
+- 🏅 **Adobe Certified Expert / Professional** · **Adobe Digital Publishing**
+- 💾 **Computer Software & Applications** certification
+- 🌐 **HTML** certification
+- 🤖 **AI Prompt Engineering** courses
+- 📚 Plus many more classes & courses. Full résumé available on request (serious inquiries only).
+
+<details>
+<summary><b>🖤 Click for the writer side of me</b></summary>
+<br />
+
+*"I write the stories that keep you up at night, and you wouldn't have it any other way."*
+
+I write my own original fiction across dark romance, dark fantasy, romantic thriller, romantic mystery, sci-fi, yandere and short fiction. Some of my work has found a home through **WonderlandXXX** and **ShadowFang Media**, and I also offer **custom writing as a freelance service**. Commissions are open and handled personally. 🌹
+
+</details>
+
+<img src="assets/divider-2.svg" width="100%" alt="" />
+
+<p align="center"><img src="assets/h-contact.svg" width="100%" alt="Let's Work Together" /></p>
+
+<p align="center">I'm always open to inquiries. My schedule can be a bit unpredictable, but I'm friendly and happy to help when I can. I don't charge for simple questions or quick advice.</p>
+
+<p align="center">
+  <a href="https://www.wland.online/Portfolios/Queen"><img src="https://img.shields.io/badge/Portfolio-wland.online%2FPortfolios%2FQueen-ff4fae?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=160f33" alt="Portfolio" /></a>
+  <a href="mailto:ange@modulixsolutions.com"><img src="https://img.shields.io/badge/Email-ange%40modulixsolutions.com-4ff7ff?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=160f33" alt="Email ange@modulixsolutions.com" /></a>
+  <a href="mailto:ange.modulix@gmail.com"><img src="https://img.shields.io/badge/Gmail-ange.modulix%40gmail.com-ff8ccc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=160f33" alt="Email ange.modulix@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/Discord-xqueen__of__the__dammedx-bda6ff?style=for-the-badge&logo=discord&logoColor=white&labelColor=160f33" alt="Discord xqueen_of_the_dammedx" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FF8CCC&center=true&vCenter=true&width=720&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%9C;Have+a+question+or+need+help%3F+Reach+out!;Coding+%26+coffee+are+my+life+%E2%98%95;Stay+cozy+%C2%B7+lofi+%C2%B7+code+%C2%B7+rain+%F0%9F%8C%A7%EF%B8%8F" alt="Thanks for visiting" />
+</p>
+
+<img src="assets/divider-3.svg" width="100%" alt="" />
+
+<p align="center"><sub>Designed & built with love by Queen · WonderlandXXX Industries™</sub></p>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="78" viewBox="0 0 820 78" role="img" aria-label="My GitHub, in Charts">
+<defs>
+  <linearGradient id="h5" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="820" y2="0">
+    <stop offset="0" stop-color="#3dffc5"/><stop offset="0.25" stop-color="#4ff7ff"/><stop offset="0.5" stop-color="#3dffc5"/><stop offset="0.75" stop-color="#4ff7ff"/><stop offset="1" stop-color="#3dffc5"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="-410 0;0 0" dur="5s" repeatCount="indefinite"/>
+  </linearGradient>
+</defs>
+<rect x="1" y="1" width="818" height="76" rx="22" fill="#160f33"/>
+<rect x="1" y="1" width="818" height="76" rx="22" fill="none" stroke="url(#h5)" stroke-opacity="0.55" stroke-width="1.5"/>
+<rect x="250" y="62" width="320" height="3" rx="1.5" fill="url(#h5)" opacity="0.8"/>
+<g transform="translate(170 34)"><path d="M0 -11 C 1.98 -1.98 1.98 -1.98 11 0 C 1.98 1.98 1.98 1.98 0 11 C -1.98 1.98 -1.98 1.98 -11 0 C -1.98 -1.98 -1.98 -1.98 0 -11 Z" fill="#3dffc5"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" begin="0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="0.7;1.15;0.7" dur="2.4s" begin="0s" repeatCount="indefinite"/></path></g><g transform="translate(650 34)"><path d="M0 -11 C 1.98 -1.98 1.98 -1.98 11 0 C 1.98 1.98 1.98 1.98 0 11 C -1.98 1.98 -1.98 1.98 -11 0 C -1.98 -1.98 -1.98 -1.98 0 -11 Z" fill="#4ff7ff"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" begin="1.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="0.7;1.15;0.7" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></path></g>
+<text x="410" y="46" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="36" font-weight="700" fill="url(#h5)">My GitHub, in Charts</text>
+</svg>
