@@ -1,5 +1,5 @@
 <!-- Every graphic here is an image file (assets/ and generated/), so it renders and animates
-     the same on github.com, mobile browsers and the GitHub app. -->
+     the same on github.com, mobile browsers and the GitHub app for anyone wondering lol. -->
 
 <a href="https://www.wland.online/Portfolios/Queen">
   <img src="assets/banner.svg" width="100%" alt="Queen — Full-Stack Developer · Game Dev · Creator" />
@@ -199,4 +199,4 @@ I write my own original fiction across dark romance, dark fantasy, romantic thri
 
 <img src="assets/divider-3.svg" width="100%" alt="" />
 
-<p align="center"><sub>Designed & built with love by Queen · WonderlandXXX Industries™</sub></p>
+<p align="center"><sub>Designed & built with love by Queen · I <3 Code</sub></p>
