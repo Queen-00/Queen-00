@@ -20,5 +20,5 @@
 <animate attributeName="stroke-dashoffset" from="289" to="211.9" dur="1.6s" begin="0.4s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></circle>
 <text x="290" y="171" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="32" font-weight="700" fill="#4ff7ff">8</text>
 <text x="290" y="236" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, 'Noto Sans', sans-serif" font-size="13" font-weight="700" fill="#9fdcff">Longest streak (days)</text>
-<text x="200" y="300" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, 'Noto Sans', sans-serif" font-size="13" font-weight="700" fill="#bda6ff">902 contributions in the last year</text>
+<text x="200" y="300" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, 'Noto Sans', sans-serif" font-size="13" font-weight="700" fill="#bda6ff">904 contributions in the last year</text>
 </svg>
