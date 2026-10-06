@@ -13,12 +13,12 @@
 <text x="24" y="38" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, 'Noto Sans', sans-serif" font-size="15" font-weight="800" letter-spacing="2.4" fill="#ff4fae">STREAKS</text>
 <g transform="translate(200 82)"><path d="M0 -26 C 12 -10 16 -2 12 10 C 8 22 -8 22 -12 10 C -15 0 -8 -8 -4 -14 C -4 -6 2 -4 2 -10 C 2 -16 -2 -20 0 -26 Z" fill="#ffd95e"><animateTransform attributeName="transform" type="scale" values="1;1.08;0.96;1" dur="1.4s" repeatCount="indefinite"/></path><path d="M0 -6 C 6 2 6 10 0 14 C -6 10 -6 2 0 -6 Z" fill="#ff4fae"/></g><circle cx="110" cy="160" r="46" fill="none" stroke="#fff" stroke-opacity="0.08" stroke-width="9"/>
 <circle cx="110" cy="160" r="46" fill="none" stroke="#ff4fae" stroke-width="9" stroke-linecap="round" transform="rotate(-90 110 160)" stroke-dasharray="289" stroke-dashoffset="289">
-<animate attributeName="stroke-dashoffset" from="289" to="260.1" dur="1.6s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></circle>
-<text x="110" y="171" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="32" font-weight="700" fill="#ff4fae">3</text>
+<animate attributeName="stroke-dashoffset" from="289" to="250.5" dur="1.6s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></circle>
+<text x="110" y="171" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="32" font-weight="700" fill="#ff4fae">4</text>
 <text x="110" y="236" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, 'Noto Sans', sans-serif" font-size="13" font-weight="700" fill="#9fdcff">Current streak (days)</text><circle cx="290" cy="160" r="46" fill="none" stroke="#fff" stroke-opacity="0.08" stroke-width="9"/>
 <circle cx="290" cy="160" r="46" fill="none" stroke="#4ff7ff" stroke-width="9" stroke-linecap="round" transform="rotate(-90 290 160)" stroke-dasharray="289" stroke-dashoffset="289">
 <animate attributeName="stroke-dashoffset" from="289" to="211.9" dur="1.6s" begin="0.4s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></circle>
 <text x="290" y="171" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="32" font-weight="700" fill="#4ff7ff">8</text>
 <text x="290" y="236" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, 'Noto Sans', sans-serif" font-size="13" font-weight="700" fill="#9fdcff">Longest streak (days)</text>
-<text x="200" y="300" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, 'Noto Sans', sans-serif" font-size="13" font-weight="700" fill="#bda6ff">984 contributions in the last year</text>
+<text x="200" y="300" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, 'Noto Sans', sans-serif" font-size="13" font-weight="700" fill="#bda6ff">1,041 contributions in the last year</text>
 </svg>
